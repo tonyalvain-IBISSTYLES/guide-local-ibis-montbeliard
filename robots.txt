@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tonyalvain-ibisstyles.github.io/guide-local-ibis-montbeliard/sitemap.xml
