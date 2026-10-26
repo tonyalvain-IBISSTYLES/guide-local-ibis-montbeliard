@@ -1,4 +1,4 @@
-/* Fiches et photos sourcées ; consulter PHOTOS-ET-DROITS.md pour les crédits. */
+/* Fiches du guide : 50 adresses, liens corrigés au 26/10/2026. Les sites externes peuvent changer ; lire CORRECTION-LIENS-404.md. */
 window.GUIDE_PLACES = [
   {
     "id": "hotel",
@@ -17,7 +17,7 @@ window.GUIDE_PLACES = [
     "hours": "hotel",
     "note": "hotel",
     "outside": false,
-    "photo": "",
+    "photo": "images/hotel.webp",
     "walk": "",
     "tags": [
       "hotel",
@@ -31,7 +31,12 @@ window.GUIDE_PLACES = [
       "de": "Unser Team hilft Ihnen gern: fragen Sie an der Rezeption nach Tipps für Ihren Tag.",
       "zh": "我们的团队随时为您提供帮助：欢迎到前台咨询当天的出行建议。"
     },
-    "teamApproved": true
+    "teamApproved": true,
+    "photoKind": "provided",
+    "photoCredit": "Photo transmise pour le guide",
+    "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
+    "photoSource": "",
+    "photoRightsStatus": "à confirmer avant diffusion publique"
   },
   {
     "id": "tourist-office",
@@ -186,7 +191,7 @@ window.GUIDE_PLACES = [
     "hours": "science",
     "note": "",
     "outside": false,
-    "photo": "",
+    "photo": "images/science.webp",
     "walk": "",
     "tags": [],
     "checked_on": "",
@@ -197,7 +202,12 @@ window.GUIDE_PLACES = [
       "de": "Unser Team empfiehlt diesen Ort besonders gern: ein schöner Familienausflug, besonders für neugierige Kinder.",
       "zh": "我们的团队很乐意向您推荐这个地方：很适合亲子出游，尤其适合喜欢探索的孩子。"
     },
-    "teamApproved": true
+    "teamApproved": true,
+    "photoKind": "provided",
+    "photoCredit": "Photo transmise pour le guide",
+    "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
+    "photoSource": "",
+    "photoRightsStatus": "à confirmer avant diffusion publique"
   },
   {
     "id": "temple",
@@ -318,7 +328,7 @@ window.GUIDE_PLACES = [
     "hours": "",
     "note": "",
     "outside": false,
-    "photo": "",
+    "photo": "images/city-walk.webp",
     "walk": "",
     "tags": [
       "walk",
@@ -332,7 +342,12 @@ window.GUIDE_PLACES = [
       "de": "Unser Team empfiehlt diesen Ort besonders gern: entdecken Sie die Stadt in Ihrem Tempo – am besten mit Kamera.",
       "zh": "我们的团队很乐意向您推荐这个地方：带上相机，按自己的节奏从不同角度探索这座城市。"
     },
-    "teamApproved": true
+    "teamApproved": true,
+    "photoKind": "provided",
+    "photoCredit": "Photo transmise pour le guide",
+    "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
+    "photoSource": "",
+    "photoRightsStatus": "à confirmer avant diffusion publique"
   },
   {
     "id": "peugeot",
@@ -351,7 +366,7 @@ window.GUIDE_PLACES = [
     "hours": "peugeot",
     "note": "",
     "outside": true,
-    "photo": "",
+    "photo": "images/peugeot.webp",
     "walk": "",
     "tags": [],
     "checked_on": "",
@@ -362,7 +377,12 @@ window.GUIDE_PLACES = [
       "de": "Unser Team empfiehlt diesen Ort besonders gern: ein Muss für Fans von Autos und Industriegeschichte.",
       "zh": "我们的团队很乐意向您推荐这个地方：汽车和工业历史爱好者不可错过。"
     },
-    "teamApproved": true
+    "teamApproved": true,
+    "photoKind": "provided",
+    "photoCredit": "Photo transmise pour le guide",
+    "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
+    "photoSource": "",
+    "photoRightsStatus": "à confirmer avant diffusion publique"
   },
   {
     "id": "brognard",
@@ -415,7 +435,7 @@ window.GUIDE_PLACES = [
     "hours": "",
     "note": "",
     "outside": false,
-    "photo": "",
+    "photo": "images/eurovelo.webp",
     "walk": "",
     "tags": [
       "velo",
@@ -429,7 +449,12 @@ window.GUIDE_PLACES = [
       "de": "Unser Team empfiehlt diesen Ort besonders gern: eine gute Idee, wenn Sie die Umgebung gern mit dem Rad erkunden.",
       "zh": "我们的团队很乐意向您推荐这个地方：如果喜欢骑行探索周边，这条路线值得考虑。"
     },
-    "teamApproved": true
+    "teamApproved": true,
+    "photoKind": "context",
+    "photoCredit": "Visuel transmis pour le guide",
+    "photoLicense": "Image illustrative du type de lieu ; localisation exacte non vérifiée",
+    "photoSource": "",
+    "photoRightsStatus": "à confirmer avant diffusion publique"
   },
   {
     "id": "bonal",
@@ -477,12 +502,12 @@ window.GUIDE_PLACES = [
       "zh": "城堡脚下老城区的传统法式餐厅。"
     },
     "source": "https://www.paysdemontbeliard-tourisme.com/sites/default/files/2026-04/Guide%20Bonnes%20Adresses%202026%20web.pdf",
-    "website": "https://restaurant-lechatel.fr/",
+    "website": "https://le-chatel.eu/",
     "phone": "+33381925708",
     "hours": "check",
     "note": "",
     "outside": false,
-    "photo": "",
+    "photo": "images/chatel.webp",
     "walk": "",
     "tags": [],
     "checked_on": "",
@@ -493,7 +518,13 @@ window.GUIDE_PLACES = [
       "de": "Unser Team isst hier gerne: lust auf ein Essen in der Altstadt? Dieses Lokal liegt nahe dem Schloss.",
       "zh": "我们的团队喜欢来这里用餐：想在蒙贝利亚尔老城区用餐？这家餐厅就在城堡附近。"
     },
-    "teamApproved": true
+    "teamApproved": true,
+    "photoKind": "provided",
+    "photoCredit": "Photo transmise pour le guide",
+    "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
+    "photoSource": "",
+    "photoRightsStatus": "à confirmer avant diffusion publique",
+    "linkCheckedOn": "2026-10-26"
   },
   {
     "id": "pause",
@@ -506,13 +537,13 @@ window.GUIDE_PLACES = [
       "de": "Saisonale Küche in gemütlicher Atmosphäre nahe dem Schloss.",
       "zh": "城堡附近环境温馨的时令料理餐厅。"
     },
-    "source": "https://www.paysdemontbeliard-tourisme.com/",
-    "website": "http://www.lapausegourmande.net",
+    "source": "https://www.paysdemontbeliard-tourisme.com/manger/decibelles/detail/resbfc025313017340/la-pause-gourmande",
+    "website": "https://www.paysdemontbeliard-tourisme.com/manger/decibelles/detail/resbfc025313017340/la-pause-gourmande",
     "phone": "+33381912758",
     "hours": "check",
     "note": "",
     "outside": false,
-    "photo": "",
+    "photo": "images/pause.webp",
     "walk": "",
     "tags": [],
     "checked_on": "",
@@ -523,7 +554,14 @@ window.GUIDE_PLACES = [
       "de": "Unser Team isst hier gerne: eine gute Option für eine genussvolle Pause nach dem Schlossbesuch.",
       "zh": "我们的团队喜欢来这里用餐：参观城堡后，不妨在这里享受一顿美食。"
     },
-    "teamApproved": true
+    "teamApproved": true,
+    "photoKind": "provided",
+    "photoCredit": "Photo transmise pour le guide",
+    "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
+    "photoSource": "",
+    "photoRightsStatus": "à confirmer avant diffusion publique",
+    "websiteKind": "listing",
+    "linkCheckedOn": "2026-10-26"
   },
   {
     "id": "cassage",
@@ -542,7 +580,7 @@ window.GUIDE_PLACES = [
     "hours": "check",
     "note": "",
     "outside": false,
-    "photo": "",
+    "photo": "images/cassage.webp",
     "walk": "",
     "tags": [],
     "checked_on": "",
@@ -553,7 +591,12 @@ window.GUIDE_PLACES = [
       "de": "Unser Team isst hier gerne: für alle, die kleine Restaurants und saisonale Gerichte mögen.",
       "zh": "我们的团队喜欢来这里用餐：适合喜欢小餐馆与时令菜肴的旅客。"
     },
-    "teamApproved": true
+    "teamApproved": true,
+    "photoKind": "provided",
+    "photoCredit": "Photo transmise pour le guide",
+    "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
+    "photoSource": "",
+    "photoRightsStatus": "à confirmer avant diffusion publique"
   },
   {
     "id": "tentation",
@@ -566,13 +609,13 @@ window.GUIDE_PLACES = [
       "de": "Restaurant und Teesalon in Bahnhofsnähe.",
       "zh": "火车站附近的餐厅与茶室。"
     },
-    "source": "https://www.paysdemontbeliard-tourisme.com/sites/default/files/2026-04/Guide%20Bonnes%20Adresses%202026%20web.pdf",
-    "website": "",
+    "source": "https://www.paysdemontbeliard-tourisme.com/manger/decibelles/detail/resbfc000v51ca66/la-tentation",
+    "website": "https://restaurant-latentation.fr/",
     "phone": "+33381945443",
     "hours": "check",
     "note": "",
     "outside": false,
-    "photo": "",
+    "photo": "images/tentation.webp",
     "walk": "",
     "tags": [],
     "checked_on": "",
@@ -583,7 +626,13 @@ window.GUIDE_PLACES = [
       "de": "Unser Team isst hier gerne: praktisch für eine kleine Genusspause in Bahnhofsnähe.",
       "zh": "我们的团队喜欢来这里用餐：在火车站附近享受美味小憩的方便选择。"
     },
-    "teamApproved": true
+    "teamApproved": true,
+    "photoKind": "provided",
+    "photoCredit": "Photo transmise pour le guide",
+    "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
+    "photoSource": "",
+    "photoRightsStatus": "à confirmer avant diffusion publique",
+    "linkCheckedOn": "2026-10-26"
   },
   {
     "id": "cafe-central",
@@ -602,7 +651,7 @@ window.GUIDE_PLACES = [
     "hours": "check",
     "note": "",
     "outside": false,
-    "photo": "",
+    "photo": "images/cafe-central.webp",
     "walk": "",
     "tags": [],
     "checked_on": "",
@@ -613,7 +662,12 @@ window.GUIDE_PLACES = [
       "de": "Unser Team isst hier gerne: eine Adresse für Gerichte mit Franche-Comté-Einflüssen direkt am Platz.",
       "zh": "我们的团队喜欢来这里用餐：可在广场旁品尝具有弗朗什-孔泰风味的菜肴。"
     },
-    "teamApproved": true
+    "teamApproved": true,
+    "photoKind": "provided",
+    "photoCredit": "Photo transmise pour le guide",
+    "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
+    "photoSource": "",
+    "photoRightsStatus": "à confirmer avant diffusion publique"
   },
   {
     "id": "ho-plats",
@@ -627,12 +681,12 @@ window.GUIDE_PLACES = [
       "zh": "供应阿尔萨斯薄饼及法国东部地方特色菜。"
     },
     "source": "https://www.paysdemontbeliard-tourisme.com/sites/default/files/2026-04/Guide%20Bonnes%20Adresses%202026%20web.pdf",
-    "website": "https://www.hoplats-gourmands.com",
+    "website": "https://hoplats-gourmands.com/",
     "phone": "+33381972095",
     "hours": "check",
     "note": "",
     "outside": false,
-    "photo": "",
+    "photo": "images/ho-plats.webp",
     "walk": "",
     "tags": [],
     "checked_on": "",
@@ -643,7 +697,13 @@ window.GUIDE_PLACES = [
       "de": "Unser Team isst hier gerne: eine leckere Option für Flammkuchen und regionale Spezialitäten.",
       "zh": "我们的团队喜欢来这里用餐：想吃阿尔萨斯薄饼和地方特色菜，可以考虑这里。"
     },
-    "teamApproved": true
+    "teamApproved": true,
+    "photoKind": "provided",
+    "photoCredit": "Photo transmise pour le guide",
+    "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
+    "photoSource": "",
+    "photoRightsStatus": "à confirmer avant diffusion publique",
+    "linkCheckedOn": "2026-10-26"
   },
   {
     "id": "sakura",
@@ -662,7 +722,7 @@ window.GUIDE_PLACES = [
     "hours": "check",
     "note": "",
     "outside": false,
-    "photo": "",
+    "photo": "images/sakura.webp",
     "walk": "",
     "tags": [],
     "checked_on": "",
@@ -673,7 +733,12 @@ window.GUIDE_PLACES = [
       "de": "Unser Team isst hier gerne: zur Abwechslung von der regionalen Küche bietet sich hier Japanisches an.",
       "zh": "我们的团队喜欢来这里用餐：想换换口味？可以试试日式料理。"
     },
-    "teamApproved": true
+    "teamApproved": true,
+    "photoKind": "provided",
+    "photoCredit": "Photo transmise pour le guide",
+    "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
+    "photoSource": "",
+    "photoRightsStatus": "à confirmer avant diffusion publique"
   },
   {
     "id": "witt",
@@ -686,13 +751,13 @@ window.GUIDE_PLACES = [
       "de": "Thailändisches Streetfood.",
       "zh": "泰式街头美食。"
     },
-    "source": "https://www.paysdemontbeliard-tourisme.com/sites/default/files/2026-04/Guide%20Bonnes%20Adresses%202026%20web.pdf",
-    "website": "",
+    "source": "https://www.paysdemontbeliard-tourisme.com/manger/decibelles/detail/resbfc025313013927/chez-witt",
+    "website": "https://chez-witt-montbeliard.metro.bar/?lang=fr",
     "phone": "+33381986945",
     "hours": "check",
     "note": "",
     "outside": false,
-    "photo": "",
+    "photo": "images/witt.webp",
     "walk": "",
     "tags": [],
     "checked_on": "",
@@ -703,7 +768,13 @@ window.GUIDE_PLACES = [
       "de": "Unser Team isst hier gerne: eine lockere Option für Fans von Streetfood und thailändischen Aromen.",
       "zh": "我们的团队喜欢来这里用餐：喜欢街头美食和泰式风味的旅客可以看看这里。"
     },
-    "teamApproved": true
+    "teamApproved": true,
+    "photoKind": "provided",
+    "photoCredit": "Photo transmise pour le guide",
+    "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
+    "photoSource": "",
+    "photoRightsStatus": "à confirmer avant diffusion publique",
+    "linkCheckedOn": "2026-10-26"
   },
   {
     "id": "signorizza",
@@ -716,13 +787,13 @@ window.GUIDE_PLACES = [
       "de": "Holzofenpizza und italienische Küche außerhalb der Fußgängerzone.",
       "zh": "柴火披萨及意大利餐，位于步行街以外。"
     },
-    "source": "https://www.paysdemontbeliard-tourisme.com/sites/default/files/2026-04/Guide%20Bonnes%20Adresses%202026%20web.pdf",
-    "website": "https://www.signorizza.com/",
+    "source": "https://www.paysdemontbeliard-tourisme.com/manger/decibelles/detail/resbfc000v52p00a/signorizza",
+    "website": "https://www.paysdemontbeliard-tourisme.com/manger/decibelles/detail/resbfc000v52p00a/signorizza",
     "phone": "+33381960042",
     "hours": "check",
     "note": "",
     "outside": true,
-    "photo": "",
+    "photo": "images/signorizza.webp",
     "walk": "",
     "tags": [],
     "checked_on": "",
@@ -733,7 +804,14 @@ window.GUIDE_PLACES = [
       "de": "Unser Team isst hier gerne: lust auf Holzofenpizza? Die Adresse liegt außerhalb der Fußgängerzone.",
       "zh": "我们的团队喜欢来这里用餐：想吃柴火烤披萨？请先查看路线，餐厅不在步行中心区。"
     },
-    "teamApproved": true
+    "teamApproved": true,
+    "photoKind": "provided",
+    "photoCredit": "Photo transmise pour le guide",
+    "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
+    "photoSource": "",
+    "photoRightsStatus": "à confirmer avant diffusion publique",
+    "websiteKind": "listing",
+    "linkCheckedOn": "2026-10-26"
   },
   {
     "id": "debrie",
@@ -752,7 +830,7 @@ window.GUIDE_PLACES = [
     "hours": "check",
     "note": "",
     "outside": false,
-    "photo": "",
+    "photo": "images/debrie.webp",
     "walk": "",
     "tags": [],
     "checked_on": "",
@@ -763,7 +841,12 @@ window.GUIDE_PLACES = [
       "de": "Unser Team empfiehlt diese süße Pause: ein schöner Halt für Fans von Gebäck und handgemachter Schokolade.",
       "zh": "酒店团队喜欢推荐这个甜蜜的停留：适合喜爱糕点和手工巧克力的旅客。"
     },
-    "teamApproved": true
+    "teamApproved": true,
+    "photoKind": "provided",
+    "photoCredit": "Photo transmise pour le guide",
+    "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
+    "photoSource": "",
+    "photoRightsStatus": "à confirmer avant diffusion publique"
   },
   {
     "id": "mie",
@@ -777,12 +860,12 @@ window.GUIDE_PLACES = [
       "zh": "面包、糕点、三明治及简餐。"
     },
     "source": "https://www.paysdemontbeliard-tourisme.com/shopping",
-    "website": "https://www.lamiecaline.com/",
+    "website": "https://www.lamiecaline.com/boutiques/montbeliard/",
     "phone": "+33381913107",
     "hours": "check",
     "note": "",
     "outside": false,
-    "photo": "",
+    "photo": "images/mie.webp",
     "walk": "",
     "tags": [],
     "checked_on": "",
@@ -793,7 +876,13 @@ window.GUIDE_PLACES = [
       "de": "Unser Team empfiehlt diese süße Pause: ein unkomplizierter Halt für Gebäck oder einen Snack zwischendurch.",
       "zh": "酒店团队喜欢推荐这个甜蜜的停留：参观间隙买一份酥点或小吃，很方便。"
     },
-    "teamApproved": true
+    "teamApproved": true,
+    "photoKind": "provided",
+    "photoCredit": "Photo transmise pour le guide",
+    "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
+    "photoSource": "",
+    "photoRightsStatus": "à confirmer avant diffusion publique",
+    "linkCheckedOn": "2026-10-26"
   },
   {
     "id": "billiotte",
@@ -812,7 +901,7 @@ window.GUIDE_PLACES = [
     "hours": "check",
     "note": "",
     "outside": false,
-    "photo": "",
+    "photo": "images/billiotte.webp",
     "walk": "",
     "tags": [],
     "checked_on": "",
@@ -823,7 +912,12 @@ window.GUIDE_PLACES = [
       "de": "Unser Team empfiehlt diese süße Pause: eine Idee für ein süßes Mitbringsel oder ein kleines Geschenk.",
       "zh": "酒店团队喜欢推荐这个甜蜜的停留：适合买一些甜点或小礼物带回家。"
     },
-    "teamApproved": true
+    "teamApproved": true,
+    "photoKind": "context",
+    "photoCredit": "Visuel transmis pour le guide",
+    "photoLicense": "Image illustrative du type de lieu ; localisation exacte non vérifiée",
+    "photoSource": "",
+    "photoRightsStatus": "à confirmer avant diffusion publique"
   },
   {
     "id": "ragot",
@@ -842,7 +936,7 @@ window.GUIDE_PLACES = [
     "hours": "check",
     "note": "",
     "outside": false,
-    "photo": "",
+    "photo": "images/ragot.webp",
     "walk": "",
     "tags": [],
     "checked_on": "",
@@ -853,7 +947,12 @@ window.GUIDE_PLACES = [
       "de": "Unser Team empfiehlt diese süße Pause: ein Schokoladenstopp beim Bummel durch die Innenstadt.",
       "zh": "酒店团队喜欢推荐这个甜蜜的停留：逛市中心时可以来一次巧克力小憩。"
     },
-    "teamApproved": true
+    "teamApproved": true,
+    "photoKind": "provided",
+    "photoCredit": "Photo transmise pour le guide",
+    "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
+    "photoSource": "",
+    "photoRightsStatus": "à confirmer avant diffusion publique"
   },
   {
     "id": "vergne",
@@ -872,7 +971,7 @@ window.GUIDE_PLACES = [
     "hours": "check",
     "note": "",
     "outside": true,
-    "photo": "",
+    "photo": "images/vergne.webp",
     "walk": "",
     "tags": [],
     "checked_on": "",
@@ -883,7 +982,12 @@ window.GUIDE_PLACES = [
       "de": "Unser Team empfiehlt diese süße Pause: eine weitere Möglichkeit, regionale Chocolatier-Kunst zu entdecken.",
       "zh": "酒店团队喜欢推荐这个甜蜜的停留：探索本地巧克力制作技艺的另一个好去处。"
     },
-    "teamApproved": true
+    "teamApproved": true,
+    "photoKind": "provided",
+    "photoCredit": "Photo transmise pour le guide",
+    "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
+    "photoSource": "",
+    "photoRightsStatus": "à confirmer avant diffusion publique"
   },
   {
     "id": "carrefour-express",
@@ -902,7 +1006,7 @@ window.GUIDE_PLACES = [
     "hours": "conflict",
     "note": "hours-conflict",
     "outside": false,
-    "photo": "",
+    "photo": "images/carrefour-express.webp",
     "walk": "",
     "tags": [
       "supermarket",
@@ -917,7 +1021,12 @@ window.GUIDE_PLACES = [
       "de": "Unser Team empfiehlt Ihnen diese Adresse: für kleine Einkäufe im Zentrum ist dieses Geschäft praktisch.",
       "zh": "我们的团队推荐这个实用地点：在市中心采购少量生活用品时，这里很方便。"
     },
-    "teamApproved": true
+    "teamApproved": true,
+    "photoKind": "provided",
+    "photoCredit": "Photo transmise pour le guide",
+    "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
+    "photoSource": "",
+    "photoRightsStatus": "à confirmer avant diffusion publique"
   },
   {
     "id": "carrefour-hyper",
@@ -960,8 +1069,8 @@ window.GUIDE_PLACES = [
       "de": "Großmarkt und Einkaufsbereich außerhalb des Zentrums.",
       "zh": "市中心以外的大型超市和购物区。"
     },
-    "source": "https://www.e.leclerc/",
-    "website": "https://www.e.leclerc/",
+    "source": "https://www.e.leclerc/mag/e-leclerc-montbeliard",
+    "website": "https://www.e.leclerc/mag/e-leclerc-montbeliard",
     "phone": "",
     "hours": "",
     "note": "",
@@ -977,7 +1086,8 @@ window.GUIDE_PLACES = [
       "de": "Unser Team empfiehlt Ihnen diese Adresse: für den größeren Einkauf vorher die Öffnungszeiten prüfen.",
       "zh": "我们的团队推荐这个实用地点：采购前建议先核实当天营业时间。"
     },
-    "teamApproved": true
+    "teamApproved": true,
+    "linkCheckedOn": "2026-10-26"
   },
   {
     "id": "littera",
@@ -996,7 +1106,7 @@ window.GUIDE_PLACES = [
     "hours": "check",
     "note": "",
     "outside": false,
-    "photo": "",
+    "photo": "images/littera.webp",
     "walk": "",
     "tags": [],
     "checked_on": "",
@@ -1007,7 +1117,12 @@ window.GUIDE_PLACES = [
       "de": "Unser Team empfiehlt Ihnen diese Adresse: lust auf ein anderes Souvenir? Stöbern Sie in den Büchern.",
       "zh": "我们的团队推荐这个实用地点：想带回一份特别的纪念品？不妨翻翻这里的书。"
     },
-    "teamApproved": true
+    "teamApproved": true,
+    "photoKind": "provided",
+    "photoCredit": "Photo transmise pour le guide",
+    "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
+    "photoSource": "",
+    "photoRightsStatus": "à confirmer avant diffusion publique"
   },
   {
     "id": "market-centre",
@@ -1026,7 +1141,7 @@ window.GUIDE_PLACES = [
     "hours": "market",
     "note": "",
     "outside": false,
-    "photo": "",
+    "photo": "images/market-centre.webp",
     "walk": "",
     "tags": [
       "marche",
@@ -1040,7 +1155,12 @@ window.GUIDE_PLACES = [
       "de": "Unser Team empfiehlt Ihnen diese Adresse: erleben Sie den Stadtrhythmus auf dem Mittwochsmarkt am Vormittag.",
       "zh": "我们的团队推荐这个实用地点：想感受当地生活，可以逛逛周三上午的市集。"
     },
-    "teamApproved": true
+    "teamApproved": true,
+    "photoKind": "context",
+    "photoCredit": "Visuel transmis pour le guide",
+    "photoLicense": "Image illustrative du type de lieu ; localisation exacte non vérifiée",
+    "photoSource": "",
+    "photoRightsStatus": "à confirmer avant diffusion publique"
   },
   {
     "id": "market-sat",
@@ -1059,7 +1179,7 @@ window.GUIDE_PLACES = [
     "hours": "market",
     "note": "",
     "outside": true,
-    "photo": "",
+    "photo": "images/market-sat.webp",
     "walk": "",
     "tags": [],
     "checked_on": "",
@@ -1070,7 +1190,12 @@ window.GUIDE_PLACES = [
       "de": "Unser Team empfiehlt Ihnen diese Adresse: samstagvormittags lohnt sich ein Bummel entlang der Marktstände.",
       "zh": "我们的团队推荐这个实用地点：周六上午逛逛摊位，是认识本地物产的好方式。"
     },
-    "teamApproved": true
+    "teamApproved": true,
+    "photoKind": "context",
+    "photoCredit": "Visuel transmis pour le guide",
+    "photoLicense": "Image illustrative du type de lieu ; localisation exacte non vérifiée",
+    "photoSource": "",
+    "photoRightsStatus": "à confirmer avant diffusion publique"
   },
   {
     "id": "pharma-carre",
@@ -1089,7 +1214,7 @@ window.GUIDE_PLACES = [
     "hours": "pharmacyconflict",
     "note": "source-conflict",
     "outside": false,
-    "photo": "",
+    "photo": "images/pharma-carre.webp",
     "walk": "",
     "tags": [
       "pharmacie",
@@ -1104,7 +1229,12 @@ window.GUIDE_PLACES = [
       "de": "Ein praktischer Tipp unseres Teams: rufen Sie vor dem Besuch an und prüfen Sie die Öffnungszeiten.",
       "zh": "我们团队的实用建议：前往前建议致电核实营业时间。"
     },
-    "teamApproved": true
+    "teamApproved": true,
+    "photoKind": "provided",
+    "photoCredit": "Photo transmise pour le guide",
+    "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
+    "photoSource": "",
+    "photoRightsStatus": "à confirmer avant diffusion publique"
   },
   {
     "id": "pharma-pays",
@@ -1123,7 +1253,7 @@ window.GUIDE_PLACES = [
     "hours": "pharmacy",
     "note": "pharma-pays",
     "outside": false,
-    "photo": "",
+    "photo": "images/pharma-pays.webp",
     "walk": "",
     "tags": [
       "pharmacie",
@@ -1138,7 +1268,12 @@ window.GUIDE_PLACES = [
       "de": "Ein praktischer Tipp unseres Teams: Öffnungszeiten und Leistungen direkt bei der Apotheke erfragen.",
       "zh": "我们团队的实用建议：建议向药房核实营业时间与服务。"
     },
-    "teamApproved": true
+    "teamApproved": true,
+    "photoKind": "provided",
+    "photoCredit": "Photo transmise pour le guide",
+    "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
+    "photoSource": "",
+    "photoRightsStatus": "à confirmer avant diffusion publique"
   },
   {
     "id": "station",
@@ -1191,7 +1326,7 @@ window.GUIDE_PLACES = [
     "hours": "realtime",
     "note": "",
     "outside": false,
-    "photo": "",
+    "photo": "images/buses.webp",
     "walk": "",
     "tags": [],
     "checked_on": "",
@@ -1202,7 +1337,12 @@ window.GUIDE_PLACES = [
       "de": "Der Mobilitätstipp unseres Teams: mit den évolitY-Bussen lässt sich die Region ohne Auto entdecken.",
       "zh": "我们团队的出行建议：乘坐 évolitY 公交可方便地无车出行。"
     },
-    "teamApproved": true
+    "teamApproved": true,
+    "photoKind": "press",
+    "photoCredit": "L’Est Républicain (photo transmise)",
+    "photoLicense": "Photographie de presse fournie ; obtenir une autorisation de réutilisation",
+    "photoSource": "",
+    "photoRightsStatus": "à confirmer avant diffusion publique"
   },
   {
     "id": "station-tgv",
@@ -1255,7 +1395,7 @@ window.GUIDE_PLACES = [
     "hours": "velotte",
     "note": "velotte",
     "outside": false,
-    "photo": "",
+    "photo": "images/parking-picto.webp",
     "walk": "",
     "tags": [
       "parking",
@@ -1269,7 +1409,12 @@ window.GUIDE_PLACES = [
       "de": "Ein Tipp unseres Teams: fragen Sie an der Rezeption nach dem Hotelgasttarif.",
       "zh": "酒店团队小贴士：酒店停车优惠的具体办法请咨询前台。"
     },
-    "teamApproved": true
+    "teamApproved": true,
+    "photoKind": "illustration",
+    "photoCredit": "Visuel transmis pour le guide",
+    "photoLicense": "Pictogramme ou illustration fournie ; ce n’est pas une photographie du site",
+    "photoSource": "",
+    "photoRightsStatus": "à confirmer avant diffusion publique"
   },
   {
     "id": "parking-allies",
@@ -1288,7 +1433,7 @@ window.GUIDE_PLACES = [
     "hours": "publicpark",
     "note": "",
     "outside": false,
-    "photo": "",
+    "photo": "images/parking-picto.webp",
     "walk": "",
     "tags": [],
     "checked_on": "",
@@ -1299,7 +1444,12 @@ window.GUIDE_PLACES = [
       "de": "Ein Tipp unseres Teams: prüfen Sie Parkbedingungen und Preise vorab.",
       "zh": "酒店团队小贴士：停车前请先核对费用和规则。"
     },
-    "teamApproved": true
+    "teamApproved": true,
+    "photoKind": "illustration",
+    "photoCredit": "Visuel transmis pour le guide",
+    "photoLicense": "Pictogramme ou illustration fournie ; ce n’est pas une photographie du site",
+    "photoSource": "",
+    "photoRightsStatus": "à confirmer avant diffusion publique"
   },
   {
     "id": "parking-blancheries",
@@ -1318,7 +1468,7 @@ window.GUIDE_PLACES = [
     "hours": "publicpark",
     "note": "",
     "outside": false,
-    "photo": "",
+    "photo": "images/parking-picto.webp",
     "walk": "",
     "tags": [],
     "checked_on": "",
@@ -1329,7 +1479,12 @@ window.GUIDE_PLACES = [
       "de": "Ein Tipp unseres Teams: prüfen Sie vorab den Fußweg zurück zum Hotel.",
       "zh": "酒店团队小贴士：停车前请查看步行返回酒店的路线。"
     },
-    "teamApproved": true
+    "teamApproved": true,
+    "photoKind": "illustration",
+    "photoCredit": "Visuel transmis pour le guide",
+    "photoLicense": "Pictogramme ou illustration fournie ; ce n’est pas une photographie du site",
+    "photoSource": "",
+    "photoRightsStatus": "à confirmer avant diffusion publique"
   },
   {
     "id": "parking-lizaine",
@@ -1348,7 +1503,7 @@ window.GUIDE_PLACES = [
     "hours": "publicpark",
     "note": "",
     "outside": false,
-    "photo": "",
+    "photo": "images/parking-picto.webp",
     "walk": "",
     "tags": [],
     "checked_on": "",
@@ -1359,7 +1514,12 @@ window.GUIDE_PLACES = [
       "de": "Ein Tipp unseres Teams: orientieren Sie sich vor dem Parken über den Rückweg.",
       "zh": "酒店团队小贴士：停车前建议先确认返程路线。"
     },
-    "teamApproved": true
+    "teamApproved": true,
+    "photoKind": "illustration",
+    "photoCredit": "Visuel transmis pour le guide",
+    "photoLicense": "Pictogramme ou illustration fournie ; ce n’est pas une photographie du site",
+    "photoSource": "",
+    "photoRightsStatus": "à confirmer avant diffusion publique"
   },
   {
     "id": "charge-velotte",
@@ -1378,7 +1538,7 @@ window.GUIDE_PLACES = [
     "hours": "ev",
     "note": "",
     "outside": false,
-    "photo": "",
+    "photo": "images/recharge-picto.webp",
     "walk": "",
     "tags": [
       "ev",
@@ -1394,7 +1554,12 @@ window.GUIDE_PLACES = [
       "de": "Ein Tipp unseres Teams: prüfen Sie Verfügbarkeit und Bezahlung vor dem Laden.",
       "zh": "酒店团队小贴士：充电前请确认设备状态和支付方式。"
     },
-    "teamApproved": true
+    "teamApproved": true,
+    "photoKind": "illustration",
+    "photoCredit": "Visuel transmis pour le guide",
+    "photoLicense": "Pictogramme ou illustration fournie ; ce n’est pas une photographie du site",
+    "photoSource": "",
+    "photoRightsStatus": "à confirmer avant diffusion publique"
   },
   {
     "id": "charge-tesla",
@@ -1413,7 +1578,7 @@ window.GUIDE_PLACES = [
     "hours": "ev",
     "note": "",
     "outside": true,
-    "photo": "",
+    "photo": "images/charge-tesla.webp",
     "walk": "",
     "tags": [
       "ev",
@@ -1430,7 +1595,12 @@ window.GUIDE_PLACES = [
       "de": "Ein Tipp unseres Teams: Kompatibilität und Tarife in der Betreiber-App prüfen.",
       "zh": "酒店团队小贴士：请在运营商应用中确认兼容性与价格。"
     },
-    "teamApproved": true
+    "teamApproved": true,
+    "photoKind": "context",
+    "photoCredit": "Visuel transmis pour le guide",
+    "photoLicense": "Image illustrative du type de lieu ; localisation exacte non vérifiée",
+    "photoSource": "",
+    "photoRightsStatus": "à confirmer avant diffusion publique"
   },
   {
     "id": "library",
@@ -1449,7 +1619,7 @@ window.GUIDE_PLACES = [
     "hours": "check",
     "note": "",
     "outside": false,
-    "photo": "",
+    "photo": "images/library.webp",
     "walk": "",
     "tags": [],
     "checked_on": "",
@@ -1460,7 +1630,12 @@ window.GUIDE_PLACES = [
       "de": "Unser Team empfiehlt diesen praktischen Service: für eine ruhige Pause vorher die Öffnungszeiten prüfen.",
       "zh": "我们的团队推荐这项便利服务：若想安静休息，可先核实图书馆开放时间。"
     },
-    "teamApproved": true
+    "teamApproved": true,
+    "photoKind": "provided",
+    "photoCredit": "Photo transmise pour le guide",
+    "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
+    "photoSource": "",
+    "photoRightsStatus": "à confirmer avant diffusion publique"
   },
   {
     "id": "cityhall",
@@ -1543,7 +1718,7 @@ window.GUIDE_PLACES = [
     "hours": "check",
     "note": "",
     "outside": false,
-    "photo": "",
+    "photo": "images/laverie.webp",
     "walk": "",
     "tags": [],
     "checked_on": "",
@@ -1554,7 +1729,12 @@ window.GUIDE_PLACES = [
       "de": "Unser Team empfiehlt diesen praktischen Service: für Wäsche während des Aufenthalts Maschinen und Bezahlung vor Ort prüfen.",
       "zh": "我们的团队推荐这项便利服务：住宿期间洗衣请现场确认设备与付款方式。"
     },
-    "teamApproved": true
+    "teamApproved": true,
+    "photoKind": "context",
+    "photoCredit": "Visuel transmis pour le guide",
+    "photoLicense": "Image illustrative du type de lieu ; localisation exacte non vérifiée",
+    "photoSource": "",
+    "photoRightsStatus": "à confirmer avant diffusion publique"
   },
   {
     "id": "market-tuesday",
