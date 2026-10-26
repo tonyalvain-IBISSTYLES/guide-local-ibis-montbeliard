@@ -31,3 +31,11 @@
 - **Contrôle de disponibilité instantanée de chacun des liens externes** : non garanti ; le lecteur doit vérifier lors de l'ouverture.
 
 **Conclusion :** archive complète pour publication GitHub Pages ; le rendu, l'interaction et la structure ont été testés. Ce fichier est un rapport transparent, pas une attestation d'exhaustivité locale.
+
+
+## Édition équipe / photographies
+- 50 fiches, 50 conseils en 4 langues et `teamApproved=true` au 25/10/2026.
+- 12 images Wikimedia Commons liées au nom exact du lieu, auteurs et licences conservés dans `data.js` et `PHOTOS-ET-DROITS.md`.
+- Les photos sont **chargées depuis Wikimedia Commons**, et non incluses localement : le navigateur et l'accès réseau doivent être testés après mise en ligne.
+- Commerces sans photo réutilisable : illustration de catégorie + bouton vers les photos du lieu dans Google Maps.
+- Aucune relecture exhaustive des prestations, ni vérification réelle des images et des horaires en navigateur connecté, n’a été réalisée.

@@ -65,4 +65,4 @@ Points particulièrement documentés :
 
 ## Illustrations, photos et marques
 
-Les images SVG de ce dossier ont été créées spécifiquement pour illustrer des **catégories**. Elles ne montrent pas les commerces réels. Aucune photographie d’établissement tiers n’est présentée comme authentique. Le logotype typographique est une proposition graphique non officielle, non un logo Accor certifié. Pour une identité de marque conforme, employer un fichier graphique transmis et autorisé par l’hôtel.
+Les SVG du dossier `images` illustrent uniquement des **catégories**. Douze fiches présentent en plus une photographie réelle associée au lieu, créditée et affichée depuis Wikimedia Commons. Voir [PHOTOS-ET-DROITS.md](PHOTOS-ET-DROITS.md) et `sources.html`. Aucune photographie générique n’est présentée comme celle d’un commerce identifié. Le logotype typographique est une proposition graphique non officielle, non un logo Accor certifié. Pour une identité de marque conforme, employer un fichier graphique transmis et autorisé par l’hôtel.

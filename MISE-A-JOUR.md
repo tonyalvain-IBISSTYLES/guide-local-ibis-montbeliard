@@ -36,3 +36,8 @@ Les liens créés par le guide utilisent Google Maps, origine `21 avenue des All
 - Actualiser les marchés, musées, transports et supermarchés ;
 - Mettre à jour `SOURCES.md` et `VERIFICATIONS.md` et retirer les commerces définitivement fermés ;
 - Ouvrir `index.html` et `tv.html` sur ordinateur et téléphone après publication.
+
+
+## Mise à jour « équipe + photos » — 25 octobre 2026
+
+Pour cette édition, remplacer sur GitHub `index.html`, `data.js`, `app.js`, `styles.css`, `translations.js` et `sources.html`. Les liens vers Wikimedia Commons affichent des photos réelles de 12 lieux ; ils ne sont pas des fichiers JPG stockés localement. Voir `PHOTOS-ET-DROITS.md` pour les crédits et `PHOTOS-A-COMPLETER.csv` pour les 38 lieux restants.

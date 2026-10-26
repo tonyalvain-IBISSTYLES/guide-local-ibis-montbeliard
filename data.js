@@ -1,4 +1,4 @@
-/* Sources in SOURCES.md. Sources may be stale; this is not a live directory. */
+/* Fiches et photos sourcées ; consulter PHOTOS-ET-DROITS.md pour les crédits. */
 window.GUIDE_PLACES = [
   {
     "id": "hotel",
@@ -24,7 +24,14 @@ window.GUIDE_PLACES = [
       "reception"
     ],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Notre équipe est là pour vous renseigner : passez à la réception pour un conseil adapté à votre journée.",
+      "en": "Our team is here to help: stop at reception for advice tailored to your plans.",
+      "de": "Unser Team hilft Ihnen gern: fragen Sie an der Rezeption nach Tipps für Ihren Tag.",
+      "zh": "我们的团队随时为您提供帮助：欢迎到前台咨询当天的出行建议。"
+    },
+    "teamApproved": true
   },
   {
     "id": "tourist-office",
@@ -43,11 +50,22 @@ window.GUIDE_PLACES = [
     "hours": "tourism",
     "note": "",
     "outside": false,
-    "photo": "",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Office_Tourisme_-_Montb%C3%A9liard_%28FR25%29_-_2026-09-12_-_2.jpg?width=960",
     "walk": "",
     "tags": [],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Notre équipe aime vous faire découvrir ce lieu : pour préparer une visite ou récupérer un plan de la ville, c’est un bon premier arrêt.",
+      "en": "Our team enjoys recommending this place: for a town map or ideas for a visit, start here.",
+      "de": "Unser Team empfiehlt diesen Ort besonders gern: für Stadtpläne und Ausflugsideen lohnt sich der erste Besuch hier.",
+      "zh": "我们的团队很乐意向您推荐这个地方：想领取城市地图或咨询行程，可以先来这里。"
+    },
+    "teamApproved": true,
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Office_Tourisme_-_Montb%C3%A9liard_%28FR25%29_-_2026-09-12_-_2.jpg",
+    "photoCredit": "Chabe01",
+    "photoLicense": "CC BY-SA 4.0",
+    "photoFile": "Office Tourisme - Montbéliard (FR25) - 2026-09-12 - 2.jpg"
   },
   {
     "id": "castle",
@@ -66,11 +84,22 @@ window.GUIDE_PLACES = [
     "hours": "castle",
     "note": "",
     "outside": false,
-    "photo": "chateau",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/B%C3%A2timent_Nord_Ch%C3%A2teau_Ducs_Wurtemberg_-_Montb%C3%A9liard_%28FR25%29_-_2026-09-12_-_1.jpg?width=960",
     "walk": "",
     "tags": [],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Notre équipe aime vous faire découvrir ce lieu : une belle idée pour commencer la découverte de Montbéliard : le château donne immédiatement le ton de la cité.",
+      "en": "Our team enjoys recommending this place: a lovely way to start exploring Montbéliard: the castle sets the scene.",
+      "de": "Unser Team empfiehlt diesen Ort besonders gern: ein schöner Einstieg in Montbéliard: Das Schloss vermittelt sofort den Charakter der Stadt.",
+      "zh": "我们的团队很乐意向您推荐这个地方：从城堡开启蒙贝利亚尔之旅，感受这座城市的历史魅力。"
+    },
+    "teamApproved": true,
+    "photoSource": "https://commons.wikimedia.org/wiki/File:B%C3%A2timent_Nord_Ch%C3%A2teau_Ducs_Wurtemberg_-_Montb%C3%A9liard_%28FR25%29_-_2026-09-12_-_1.jpg",
+    "photoCredit": "Chabe01",
+    "photoLicense": "CC BY-SA 4.0",
+    "photoFile": "Bâtiment Nord Château Ducs Wurtemberg - Montbéliard (FR25) - 2026-09-12 - 1.jpg"
   },
   {
     "id": "museum-beurnier",
@@ -89,11 +118,22 @@ window.GUIDE_PLACES = [
     "hours": "check",
     "note": "",
     "outside": false,
-    "photo": "",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/H%C3%B4tel_Beurnier_Rossel_-_Montb%C3%A9liard_%28FR25%29_-_2026-09-12_-_1.jpg?width=960",
     "walk": "≈ 3 min à pied (source Accor)",
     "tags": [],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Notre équipe aime vous faire découvrir ce lieu : pour prolonger la balade historique, découvrez une autre facette du patrimoine local.",
+      "en": "Our team enjoys recommending this place: extend your historic walk and discover another side of local heritage.",
+      "de": "Unser Team empfiehlt diesen Ort besonders gern: verlängern Sie Ihren historischen Spaziergang und entdecken Sie eine weitere Seite der Stadtgeschichte.",
+      "zh": "我们的团队很乐意向您推荐这个地方：继续您的历史漫步，探索当地文化遗产的另一面。"
+    },
+    "teamApproved": true,
+    "photoSource": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_Beurnier_Rossel_-_Montb%C3%A9liard_%28FR25%29_-_2026-09-12_-_1.jpg",
+    "photoCredit": "Chabe01",
+    "photoLicense": "CC BY-SA 4.0",
+    "photoFile": "Hôtel Beurnier Rossel - Montbéliard (FR25) - 2026-09-12 - 1.jpg"
   },
   {
     "id": "park",
@@ -112,11 +152,22 @@ window.GUIDE_PLACES = [
     "hours": "",
     "note": "",
     "outside": false,
-    "photo": "park",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Parc_Pr%C3%A8s_la_Rose_-_Montb%C3%A9liard.jpg?width=960",
     "walk": "",
     "tags": [],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Notre équipe aime vous faire découvrir ce lieu : envie de souffler ? Une promenade au bord de l’eau est une jolie parenthèse pendant le séjour.",
+      "en": "Our team enjoys recommending this place: need a breather? A riverside walk makes a lovely break during your stay.",
+      "de": "Unser Team empfiehlt diesen Ort besonders gern: lust auf eine Pause? Ein Spaziergang am Wasser ist eine schöne Auszeit.",
+      "zh": "我们的团队很乐意向您推荐这个地方：想放松一下？沿河散步是旅途中惬意的小憩。"
+    },
+    "teamApproved": true,
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Parc_Pr%C3%A8s_la_Rose_-_Montb%C3%A9liard.jpg",
+    "photoCredit": "ALLIOT A & B",
+    "photoLicense": "CC BY-SA 2.0",
+    "photoFile": "Parc Près la Rose - Montbéliard.jpg"
   },
   {
     "id": "science",
@@ -139,7 +190,14 @@ window.GUIDE_PLACES = [
     "walk": "",
     "tags": [],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Notre équipe aime vous faire découvrir ce lieu : une sortie à envisager en famille, surtout si les enfants aiment découvrir en s’amusant.",
+      "en": "Our team enjoys recommending this place: a family outing worth considering, especially for curious children.",
+      "de": "Unser Team empfiehlt diesen Ort besonders gern: ein schöner Familienausflug, besonders für neugierige Kinder.",
+      "zh": "我们的团队很乐意向您推荐这个地方：很适合亲子出游，尤其适合喜欢探索的孩子。"
+    },
+    "teamApproved": true
   },
   {
     "id": "temple",
@@ -158,11 +216,22 @@ window.GUIDE_PLACES = [
     "hours": "restoration",
     "note": "reopened",
     "outside": false,
-    "photo": "temple",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Temple_Saint_Martin_-_Montb%C3%A9liard_%28FR25%29_-_2026-09-12_-_1.jpg?width=960",
     "walk": "",
     "tags": [],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Notre équipe aime vous faire découvrir ce lieu : profitez d’une promenade dans le centre pour admirer ce monument tout juste restauré.",
+      "en": "Our team enjoys recommending this place: while walking through the centre, admire this recently restored landmark.",
+      "de": "Unser Team empfiehlt diesen Ort besonders gern: bewundern Sie bei einem Altstadtspaziergang dieses frisch restaurierte Bauwerk.",
+      "zh": "我们的团队很乐意向您推荐这个地方：漫步市中心时，不妨欣赏这座新近修复的地标。"
+    },
+    "teamApproved": true,
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Temple_Saint_Martin_-_Montb%C3%A9liard_%28FR25%29_-_2026-09-12_-_1.jpg",
+    "photoCredit": "Chabe01",
+    "photoLicense": "CC BY-SA 4.0",
+    "photoFile": "Temple Saint Martin - Montbéliard (FR25) - 2026-09-12 - 1.jpg"
   },
   {
     "id": "church",
@@ -181,11 +250,22 @@ window.GUIDE_PLACES = [
     "hours": "",
     "note": "",
     "outside": false,
-    "photo": "",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%89glise_Saint_Maimb%C5%93uf_-_Montb%C3%A9liard_%28FR25%29_-_2026-09-12_-_11.jpg?width=960",
     "walk": "",
     "tags": [],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Notre équipe aime vous faire découvrir ce lieu : pour découvrir un autre visage du patrimoine montbéliardais, ajoutez cette église à votre balade.",
+      "en": "Our team enjoys recommending this place: add this church to discover another side of local heritage.",
+      "de": "Unser Team empfiehlt diesen Ort besonders gern: entdecken Sie in dieser Kirche eine weitere Seite der Stadtgeschichte.",
+      "zh": "我们的团队很乐意向您推荐这个地方：不妨将这座教堂加入历史文化漫步路线。"
+    },
+    "teamApproved": true,
+    "photoSource": "https://commons.wikimedia.org/wiki/File:%C3%89glise_Saint_Maimb%C5%93uf_-_Montb%C3%A9liard_%28FR25%29_-_2026-09-12_-_11.jpg",
+    "photoCredit": "Chabe01",
+    "photoLicense": "CC BY-SA 4.0",
+    "photoFile": "Église Saint Maimbœuf - Montbéliard (FR25) - 2026-09-12 - 11.jpg"
   },
   {
     "id": "square",
@@ -204,11 +284,22 @@ window.GUIDE_PLACES = [
     "hours": "",
     "note": "",
     "outside": false,
-    "photo": "",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Halles_-_Montb%C3%A9liard_%28FR25%29_-_2026-09-12_-_1.jpg?width=960",
     "walk": "",
     "tags": [],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Notre équipe aime vous faire découvrir ce lieu : l’endroit idéal pour ressentir l’ambiance du centre-ville entre deux découvertes.",
+      "en": "Our team enjoys recommending this place: a great stop to soak up the town-centre atmosphere between visits.",
+      "de": "Unser Team empfiehlt diesen Ort besonders gern: ein schöner Ort, um zwischen zwei Besichtigungen das Stadtleben zu genießen.",
+      "zh": "我们的团队很乐意向您推荐这个地方：在两次参观之间感受市中心氛围的好地方。"
+    },
+    "teamApproved": true,
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Halles_-_Montb%C3%A9liard_%28FR25%29_-_2026-09-12_-_1.jpg",
+    "photoCredit": "Chabe01",
+    "photoLicense": "CC BY-SA 4.0",
+    "photoFile": "Halles - Montbéliard (FR25) - 2026-09-12 - 1.jpg"
   },
   {
     "id": "city-walk",
@@ -234,7 +325,14 @@ window.GUIDE_PLACES = [
       "heritage"
     ],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Notre équipe aime vous faire découvrir ce lieu : pour voir la ville autrement, suivez ce parcours à votre rythme, appareil photo à la main.",
+      "en": "Our team enjoys recommending this place: see the town from a different angle on a self-paced walk, camera in hand.",
+      "de": "Unser Team empfiehlt diesen Ort besonders gern: entdecken Sie die Stadt in Ihrem Tempo – am besten mit Kamera.",
+      "zh": "我们的团队很乐意向您推荐这个地方：带上相机，按自己的节奏从不同角度探索这座城市。"
+    },
+    "teamApproved": true
   },
   {
     "id": "peugeot",
@@ -257,7 +355,14 @@ window.GUIDE_PLACES = [
     "walk": "",
     "tags": [],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Notre équipe aime vous faire découvrir ce lieu : un incontournable pour les passionnés d’automobile et d’histoire industrielle.",
+      "en": "Our team enjoys recommending this place: a great choice for fans of cars and industrial history.",
+      "de": "Unser Team empfiehlt diesen Ort besonders gern: ein Muss für Fans von Autos und Industriegeschichte.",
+      "zh": "我们的团队很乐意向您推荐这个地方：汽车和工业历史爱好者不可错过。"
+    },
+    "teamApproved": true
   },
   {
     "id": "brognard",
@@ -276,11 +381,22 @@ window.GUIDE_PLACES = [
     "hours": "",
     "note": "",
     "outside": true,
-    "photo": "",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Base_Nautique_de_Brognard.jpg?width=960",
     "walk": "",
     "tags": [],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Notre équipe aime vous faire découvrir ce lieu : une idée de sortie aux beaux jours pour prendre l’air au bord de l’eau.",
+      "en": "Our team enjoys recommending this place: a lovely warm-weather escape for fresh air by the water.",
+      "de": "Unser Team empfiehlt diesen Ort besonders gern: bei schönem Wetter ideal für eine Auszeit am Wasser.",
+      "zh": "我们的团队很乐意向您推荐这个地方：天气晴好时，适合到水边享受户外时光。"
+    },
+    "teamApproved": true,
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Base_Nautique_de_Brognard.jpg",
+    "photoCredit": "André ALLIOT",
+    "photoLicense": "CC0 1.0",
+    "photoFile": "Base Nautique de Brognard.jpg"
   },
   {
     "id": "eurovelo",
@@ -306,7 +422,14 @@ window.GUIDE_PLACES = [
       "cycling"
     ],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Notre équipe aime vous faire découvrir ce lieu : un parcours à envisager si vous aimez explorer les environs à vélo.",
+      "en": "Our team enjoys recommending this place: one to consider if you enjoy exploring the area by bike.",
+      "de": "Unser Team empfiehlt diesen Ort besonders gern: eine gute Idee, wenn Sie die Umgebung gern mit dem Rad erkunden.",
+      "zh": "我们的团队很乐意向您推荐这个地方：如果喜欢骑行探索周边，这条路线值得考虑。"
+    },
+    "teamApproved": true
   },
   {
     "id": "bonal",
@@ -325,11 +448,22 @@ window.GUIDE_PLACES = [
     "hours": "",
     "note": "",
     "outside": true,
-    "photo": "",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Stade_Auguste_Bonal_-_Montb%C3%A9liard_%28FR25%29_-_2026-09-12_-_11.jpg?width=960",
     "walk": "",
     "tags": [],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Notre équipe aime vous faire découvrir ce lieu : amateurs de football ? Regardez la programmation avant de prévoir une visite.",
+      "en": "Our team enjoys recommending this place: football fan? Check the fixtures before planning a visit.",
+      "de": "Unser Team empfiehlt diesen Ort besonders gern: fußballfan? Prüfen Sie vorab den Spielplan.",
+      "zh": "我们的团队很乐意向您推荐这个地方：足球爱好者可以先查看赛程，再规划行程。"
+    },
+    "teamApproved": true,
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Stade_Auguste_Bonal_-_Montb%C3%A9liard_%28FR25%29_-_2026-09-12_-_11.jpg",
+    "photoCredit": "Chabe01",
+    "photoLicense": "CC BY-SA 4.0",
+    "photoFile": "Stade Auguste Bonal - Montbéliard (FR25) - 2026-09-12 - 11.jpg"
   },
   {
     "id": "chatel",
@@ -352,7 +486,14 @@ window.GUIDE_PLACES = [
     "walk": "",
     "tags": [],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Notre équipe aime manger ici : envie d’un repas dans le vieux Montbéliard ? Cette adresse se trouve près du château.",
+      "en": "Our team likes eating here: fancy a meal in old Montbéliard? This restaurant is close to the castle.",
+      "de": "Unser Team isst hier gerne: lust auf ein Essen in der Altstadt? Dieses Lokal liegt nahe dem Schloss.",
+      "zh": "我们的团队喜欢来这里用餐：想在蒙贝利亚尔老城区用餐？这家餐厅就在城堡附近。"
+    },
+    "teamApproved": true
   },
   {
     "id": "pause",
@@ -375,7 +516,14 @@ window.GUIDE_PLACES = [
     "walk": "",
     "tags": [],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Notre équipe aime manger ici : une option à regarder pour faire une pause gourmande après la visite du château.",
+      "en": "Our team likes eating here: worth checking for a tasty break after exploring the castle.",
+      "de": "Unser Team isst hier gerne: eine gute Option für eine genussvolle Pause nach dem Schlossbesuch.",
+      "zh": "我们的团队喜欢来这里用餐：参观城堡后，不妨在这里享受一顿美食。"
+    },
+    "teamApproved": true
   },
   {
     "id": "cassage",
@@ -398,7 +546,14 @@ window.GUIDE_PLACES = [
     "walk": "",
     "tags": [],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Notre équipe aime manger ici : pour celles et ceux qui aiment les petites tables et les menus de saison.",
+      "en": "Our team likes eating here: for anyone who enjoys small restaurants and seasonal menus.",
+      "de": "Unser Team isst hier gerne: für alle, die kleine Restaurants und saisonale Gerichte mögen.",
+      "zh": "我们的团队喜欢来这里用餐：适合喜欢小餐馆与时令菜肴的旅客。"
+    },
+    "teamApproved": true
   },
   {
     "id": "tentation",
@@ -421,7 +576,14 @@ window.GUIDE_PLACES = [
     "walk": "",
     "tags": [],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Notre équipe aime manger ici : pratique pour s’accorder une pause gourmande dans le secteur de la gare.",
+      "en": "Our team likes eating here: handy for a tasty stop near the railway station.",
+      "de": "Unser Team isst hier gerne: praktisch für eine kleine Genusspause in Bahnhofsnähe.",
+      "zh": "我们的团队喜欢来这里用餐：在火车站附近享受美味小憩的方便选择。"
+    },
+    "teamApproved": true
   },
   {
     "id": "cafe-central",
@@ -444,7 +606,14 @@ window.GUIDE_PLACES = [
     "walk": "",
     "tags": [],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Notre équipe aime manger ici : une adresse à explorer pour goûter une cuisine d’inspiration franc-comtoise sur la place.",
+      "en": "Our team likes eating here: an option to explore for Franche-Comté-inspired food by the square.",
+      "de": "Unser Team isst hier gerne: eine Adresse für Gerichte mit Franche-Comté-Einflüssen direkt am Platz.",
+      "zh": "我们的团队喜欢来这里用餐：可在广场旁品尝具有弗朗什-孔泰风味的菜肴。"
+    },
+    "teamApproved": true
   },
   {
     "id": "ho-plats",
@@ -467,7 +636,14 @@ window.GUIDE_PLACES = [
     "walk": "",
     "tags": [],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Notre équipe aime manger ici : une piste gourmande si vous avez envie de tartes flambées et de spécialités régionales.",
+      "en": "Our team likes eating here: a tempting option for flammekueche and regional specialities.",
+      "de": "Unser Team isst hier gerne: eine leckere Option für Flammkuchen und regionale Spezialitäten.",
+      "zh": "我们的团队喜欢来这里用餐：想吃阿尔萨斯薄饼和地方特色菜，可以考虑这里。"
+    },
+    "teamApproved": true
   },
   {
     "id": "sakura",
@@ -490,7 +666,14 @@ window.GUIDE_PLACES = [
     "walk": "",
     "tags": [],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Notre équipe aime manger ici : pour changer de la cuisine régionale, pourquoi ne pas opter pour une pause japonaise ?",
+      "en": "Our team likes eating here: fancy something different from regional cuisine? Consider a Japanese meal.",
+      "de": "Unser Team isst hier gerne: zur Abwechslung von der regionalen Küche bietet sich hier Japanisches an.",
+      "zh": "我们的团队喜欢来这里用餐：想换换口味？可以试试日式料理。"
+    },
+    "teamApproved": true
   },
   {
     "id": "witt",
@@ -513,7 +696,14 @@ window.GUIDE_PLACES = [
     "walk": "",
     "tags": [],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Notre équipe aime manger ici : une option décontractée pour les amateurs de street food et de saveurs thaïlandaises.",
+      "en": "Our team likes eating here: a casual option for street-food fans and Thai flavours.",
+      "de": "Unser Team isst hier gerne: eine lockere Option für Fans von Streetfood und thailändischen Aromen.",
+      "zh": "我们的团队喜欢来这里用餐：喜欢街头美食和泰式风味的旅客可以看看这里。"
+    },
+    "teamApproved": true
   },
   {
     "id": "signorizza",
@@ -536,7 +726,14 @@ window.GUIDE_PLACES = [
     "walk": "",
     "tags": [],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Notre équipe aime manger ici : si une pizza au feu de bois vous tente, pensez à vérifier le trajet : c’est hors centre piéton.",
+      "en": "Our team likes eating here: craving wood-fired pizza? Check the route: it is outside the pedestrian centre.",
+      "de": "Unser Team isst hier gerne: lust auf Holzofenpizza? Die Adresse liegt außerhalb der Fußgängerzone.",
+      "zh": "我们的团队喜欢来这里用餐：想吃柴火烤披萨？请先查看路线，餐厅不在步行中心区。"
+    },
+    "teamApproved": true
   },
   {
     "id": "debrie",
@@ -559,7 +756,14 @@ window.GUIDE_PLACES = [
     "walk": "",
     "tags": [],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Notre équipe aime conseiller cette pause gourmande : une jolie halte pour les amateurs de pâtisseries et de chocolat artisanal.",
+      "en": "Our team loves recommending this sweet stop: a lovely stop for lovers of pastries and handmade chocolate.",
+      "de": "Unser Team empfiehlt diese süße Pause: ein schöner Halt für Fans von Gebäck und handgemachter Schokolade.",
+      "zh": "酒店团队喜欢推荐这个甜蜜的停留：适合喜爱糕点和手工巧克力的旅客。"
+    },
+    "teamApproved": true
   },
   {
     "id": "mie",
@@ -582,7 +786,14 @@ window.GUIDE_PLACES = [
     "walk": "",
     "tags": [],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Notre équipe aime conseiller cette pause gourmande : une solution simple pour une viennoiserie ou un en-cas entre deux visites.",
+      "en": "Our team loves recommending this sweet stop: an easy stop for a pastry or snack between visits.",
+      "de": "Unser Team empfiehlt diese süße Pause: ein unkomplizierter Halt für Gebäck oder einen Snack zwischendurch.",
+      "zh": "酒店团队喜欢推荐这个甜蜜的停留：参观间隙买一份酥点或小吃，很方便。"
+    },
+    "teamApproved": true
   },
   {
     "id": "billiotte",
@@ -605,7 +816,14 @@ window.GUIDE_PLACES = [
     "walk": "",
     "tags": [],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Notre équipe aime conseiller cette pause gourmande : à retenir si vous souhaitez rapporter une douceur ou un petit cadeau gourmand.",
+      "en": "Our team loves recommending this sweet stop: keep this in mind for an edible gift or a sweet souvenir.",
+      "de": "Unser Team empfiehlt diese süße Pause: eine Idee für ein süßes Mitbringsel oder ein kleines Geschenk.",
+      "zh": "酒店团队喜欢推荐这个甜蜜的停留：适合买一些甜点或小礼物带回家。"
+    },
+    "teamApproved": true
   },
   {
     "id": "ragot",
@@ -628,7 +846,14 @@ window.GUIDE_PLACES = [
     "walk": "",
     "tags": [],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Notre équipe aime conseiller cette pause gourmande : une petite halte chocolatée pour les gourmands qui flânent au centre-ville.",
+      "en": "Our team loves recommending this sweet stop: a chocolate stop for anyone strolling through the town centre.",
+      "de": "Unser Team empfiehlt diese süße Pause: ein Schokoladenstopp beim Bummel durch die Innenstadt.",
+      "zh": "酒店团队喜欢推荐这个甜蜜的停留：逛市中心时可以来一次巧克力小憩。"
+    },
+    "teamApproved": true
   },
   {
     "id": "vergne",
@@ -651,7 +876,14 @@ window.GUIDE_PLACES = [
     "walk": "",
     "tags": [],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Notre équipe aime conseiller cette pause gourmande : une autre piste pour découvrir le savoir-faire chocolatier de la région.",
+      "en": "Our team loves recommending this sweet stop: another option for discovering the region’s chocolate-making craft.",
+      "de": "Unser Team empfiehlt diese süße Pause: eine weitere Möglichkeit, regionale Chocolatier-Kunst zu entdecken.",
+      "zh": "酒店团队喜欢推荐这个甜蜜的停留：探索本地巧克力制作技艺的另一个好去处。"
+    },
+    "teamApproved": true
   },
   {
     "id": "carrefour-express",
@@ -678,7 +910,14 @@ window.GUIDE_PLACES = [
       "epicerie"
     ],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Notre équipe aime vous proposer cette adresse : pour quelques courses rapides en centre-ville, voici une adresse facile à retrouver.",
+      "en": "Our team likes recommending this address: an easy option for quick grocery shopping in the centre.",
+      "de": "Unser Team empfiehlt Ihnen diese Adresse: für kleine Einkäufe im Zentrum ist dieses Geschäft praktisch.",
+      "zh": "我们的团队推荐这个实用地点：在市中心采购少量生活用品时，这里很方便。"
+    },
+    "teamApproved": true
   },
   {
     "id": "carrefour-hyper",
@@ -701,7 +940,14 @@ window.GUIDE_PLACES = [
     "walk": "",
     "tags": [],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Notre équipe aime vous proposer cette adresse : pour des courses plus importantes, pensez à vérifier le trajet avant de partir.",
+      "en": "Our team likes recommending this address: for larger grocery shopping, check your route before heading out.",
+      "de": "Unser Team empfiehlt Ihnen diese Adresse: bei größeren Einkäufen vorher die Route prüfen.",
+      "zh": "我们的团队推荐这个实用地点：大量采购前建议先查看前往路线。"
+    },
+    "teamApproved": true
   },
   {
     "id": "leclerc",
@@ -724,7 +970,14 @@ window.GUIDE_PLACES = [
     "walk": "",
     "tags": [],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Notre équipe aime vous proposer cette adresse : pour remplir votre panier, pensez à vérifier les horaires du jour.",
+      "en": "Our team likes recommending this address: for a bigger shop, check today’s opening hours first.",
+      "de": "Unser Team empfiehlt Ihnen diese Adresse: für den größeren Einkauf vorher die Öffnungszeiten prüfen.",
+      "zh": "我们的团队推荐这个实用地点：采购前建议先核实当天营业时间。"
+    },
+    "teamApproved": true
   },
   {
     "id": "littera",
@@ -747,7 +1000,14 @@ window.GUIDE_PLACES = [
     "walk": "",
     "tags": [],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Notre équipe aime vous proposer cette adresse : envie d’un souvenir différent ? Prenez le temps de feuilleter quelques livres.",
+      "en": "Our team likes recommending this address: after a different kind of souvenir? Browse a few books.",
+      "de": "Unser Team empfiehlt Ihnen diese Adresse: lust auf ein anderes Souvenir? Stöbern Sie in den Büchern.",
+      "zh": "我们的团队推荐这个实用地点：想带回一份特别的纪念品？不妨翻翻这里的书。"
+    },
+    "teamApproved": true
   },
   {
     "id": "market-centre",
@@ -773,7 +1033,14 @@ window.GUIDE_PLACES = [
       "local"
     ],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Notre équipe aime vous proposer cette adresse : pour sentir le rythme de la ville, faites un tour au marché du mercredi matin.",
+      "en": "Our team likes recommending this address: to catch the town’s rhythm, visit the Wednesday-morning market.",
+      "de": "Unser Team empfiehlt Ihnen diese Adresse: erleben Sie den Stadtrhythmus auf dem Mittwochsmarkt am Vormittag.",
+      "zh": "我们的团队推荐这个实用地点：想感受当地生活，可以逛逛周三上午的市集。"
+    },
+    "teamApproved": true
   },
   {
     "id": "market-sat",
@@ -796,7 +1063,14 @@ window.GUIDE_PLACES = [
     "walk": "",
     "tags": [],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Notre équipe aime vous proposer cette adresse : le samedi matin, une balade parmi les étals est une belle façon de découvrir les produits.",
+      "en": "Our team likes recommending this address: on Saturday mornings, browsing the stalls is a lovely way to explore local produce.",
+      "de": "Unser Team empfiehlt Ihnen diese Adresse: samstagvormittags lohnt sich ein Bummel entlang der Marktstände.",
+      "zh": "我们的团队推荐这个实用地点：周六上午逛逛摊位，是认识本地物产的好方式。"
+    },
+    "teamApproved": true
   },
   {
     "id": "pharma-carre",
@@ -823,7 +1097,14 @@ window.GUIDE_PLACES = [
       "药房"
     ],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Le conseil pratique de notre équipe : en cas de besoin, appelez avant de vous déplacer pour confirmer les horaires.",
+      "en": "A practical tip from our team: call ahead to confirm opening hours before you visit.",
+      "de": "Ein praktischer Tipp unseres Teams: rufen Sie vor dem Besuch an und prüfen Sie die Öffnungszeiten.",
+      "zh": "我们团队的实用建议：前往前建议致电核实营业时间。"
+    },
+    "teamApproved": true
   },
   {
     "id": "pharma-pays",
@@ -850,7 +1131,14 @@ window.GUIDE_PLACES = [
       "药房"
     ],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Le conseil pratique de notre équipe : en cas de besoin, vérifiez les horaires et les services directement auprès de l’officine.",
+      "en": "A practical tip from our team: check opening hours and available services with the pharmacy.",
+      "de": "Ein praktischer Tipp unseres Teams: Öffnungszeiten und Leistungen direkt bei der Apotheke erfragen.",
+      "zh": "我们团队的实用建议：建议向药房核实营业时间与服务。"
+    },
+    "teamApproved": true
   },
   {
     "id": "station",
@@ -869,11 +1157,22 @@ window.GUIDE_PLACES = [
     "hours": "realtime",
     "note": "",
     "outside": false,
-    "photo": "",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Gare_de_Montb%C3%A9liard_%282%29.jpg?width=960",
     "walk": "",
     "tags": [],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Le conseil de notre équipe pour vos déplacements : pour rejoindre une autre ville, vérifiez les prochains trains avant votre départ.",
+      "en": "Our team’s travel tip: check live train departures before travelling onwards.",
+      "de": "Der Mobilitätstipp unseres Teams: prüfen Sie vor der Weiterreise die aktuellen Zugabfahrten.",
+      "zh": "我们团队的出行建议：出发前建议查询最新列车时刻。"
+    },
+    "teamApproved": true,
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Gare_de_Montb%C3%A9liard_%282%29.jpg",
+    "photoCredit": "Espirat",
+    "photoLicense": "CC BY-SA 4.0",
+    "photoFile": "Gare de Montbéliard (2).jpg"
   },
   {
     "id": "buses",
@@ -896,7 +1195,14 @@ window.GUIDE_PLACES = [
     "walk": "",
     "tags": [],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Le conseil de notre équipe pour vos déplacements : pour explorer sans voiture, le réseau évolitY peut vous simplifier la journée.",
+      "en": "Our team’s travel tip: évolitY buses can make exploring without a car easier.",
+      "de": "Der Mobilitätstipp unseres Teams: mit den évolitY-Bussen lässt sich die Region ohne Auto entdecken.",
+      "zh": "我们团队的出行建议：乘坐 évolitY 公交可方便地无车出行。"
+    },
+    "teamApproved": true
   },
   {
     "id": "station-tgv",
@@ -915,11 +1221,22 @@ window.GUIDE_PLACES = [
     "hours": "",
     "note": "",
     "outside": true,
-    "photo": "",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Inscription_Gare_Belfort_Montb%C3%A9liard_TGV_Meroux_Moval_Avenue_Gare_TGV_-_Meroux-Moval_%28FR90%29_-_2026-10-01_-_1.jpg?width=960",
     "walk": "",
     "tags": [],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Le conseil de notre équipe pour vos déplacements : la gare TGV est hors du centre, prévoyez votre correspondance à l’avance.",
+      "en": "Our team’s travel tip: the high-speed station is outside town; plan your connection.",
+      "de": "Der Mobilitätstipp unseres Teams: der TGV-Bahnhof liegt außerhalb; planen Sie den Anschluss rechtzeitig.",
+      "zh": "我们团队的出行建议：高铁站不在市中心，请提前规划接驳交通。"
+    },
+    "teamApproved": true,
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Inscription_Gare_Belfort_Montb%C3%A9liard_TGV_Meroux_Moval_Avenue_Gare_TGV_-_Meroux-Moval_%28FR90%29_-_2026-10-01_-_1.jpg",
+    "photoCredit": "Chabe01",
+    "photoLicense": "CC BY-SA 4.0",
+    "photoFile": "Inscription Gare Belfort Montbéliard TGV Meroux Moval Avenue Gare TGV - Meroux-Moval (FR90) - 2026-10-01 - 1.jpg"
   },
   {
     "id": "parking-velotte",
@@ -945,7 +1262,14 @@ window.GUIDE_PLACES = [
       "stationnement"
     ],
     "checked_on": "2026-10-25",
-    "verification": "confirmed"
+    "verification": "confirmed",
+    "tip": {
+      "fr": "L’astuce de notre équipe : pour accéder facilement à l’hôtel, demandez à la réception les modalités du tarif client.",
+      "en": "A tip from our team: ask reception about the hotel-guest rate and how to use it.",
+      "de": "Ein Tipp unseres Teams: fragen Sie an der Rezeption nach dem Hotelgasttarif.",
+      "zh": "酒店团队小贴士：酒店停车优惠的具体办法请咨询前台。"
+    },
+    "teamApproved": true
   },
   {
     "id": "parking-allies",
@@ -968,7 +1292,14 @@ window.GUIDE_PLACES = [
     "walk": "",
     "tags": [],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "L’astuce de notre équipe : comparez les conditions et les tarifs avant de stationner.",
+      "en": "A tip from our team: compare parking rules and prices before you park.",
+      "de": "Ein Tipp unseres Teams: prüfen Sie Parkbedingungen und Preise vorab.",
+      "zh": "酒店团队小贴士：停车前请先核对费用和规则。"
+    },
+    "teamApproved": true
   },
   {
     "id": "parking-blancheries",
@@ -991,7 +1322,14 @@ window.GUIDE_PLACES = [
     "walk": "",
     "tags": [],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "L’astuce de notre équipe : regardez l’itinéraire à pied jusqu’à l’hôtel avant de laisser la voiture.",
+      "en": "A tip from our team: check the walking route back to the hotel before parking.",
+      "de": "Ein Tipp unseres Teams: prüfen Sie vorab den Fußweg zurück zum Hotel.",
+      "zh": "酒店团队小贴士：停车前请查看步行返回酒店的路线。"
+    },
+    "teamApproved": true
   },
   {
     "id": "parking-lizaine",
@@ -1014,7 +1352,14 @@ window.GUIDE_PLACES = [
     "walk": "",
     "tags": [],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "L’astuce de notre équipe : repérez le trajet de retour avant de vous garer.",
+      "en": "A tip from our team: check your route back before leaving your car.",
+      "de": "Ein Tipp unseres Teams: orientieren Sie sich vor dem Parken über den Rückweg.",
+      "zh": "酒店团队小贴士：停车前建议先确认返程路线。"
+    },
+    "teamApproved": true
   },
   {
     "id": "charge-velotte",
@@ -1042,7 +1387,14 @@ window.GUIDE_PLACES = [
       "电动车"
     ],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "L’astuce de notre équipe : vérifiez la disponibilité et les conditions de recharge avant de vous brancher.",
+      "en": "A tip from our team: check charger availability and payment terms first.",
+      "de": "Ein Tipp unseres Teams: prüfen Sie Verfügbarkeit und Bezahlung vor dem Laden.",
+      "zh": "酒店团队小贴士：充电前请确认设备状态和支付方式。"
+    },
+    "teamApproved": true
   },
   {
     "id": "charge-tesla",
@@ -1071,7 +1423,14 @@ window.GUIDE_PLACES = [
       "电动车"
     ],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "L’astuce de notre équipe : contrôlez la compatibilité de votre véhicule et les tarifs sur l’application de l’opérateur.",
+      "en": "A tip from our team: check compatibility and rates in the operator’s app.",
+      "de": "Ein Tipp unseres Teams: Kompatibilität und Tarife in der Betreiber-App prüfen.",
+      "zh": "酒店团队小贴士：请在运营商应用中确认兼容性与价格。"
+    },
+    "teamApproved": true
   },
   {
     "id": "library",
@@ -1094,7 +1453,14 @@ window.GUIDE_PLACES = [
     "walk": "",
     "tags": [],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Notre équipe vous indique ce service pratique : pour une pause au calme, pensez à vérifier les horaires de la médiathèque.",
+      "en": "Our team recommends this handy service: for a quiet break, check the media library’s hours.",
+      "de": "Unser Team empfiehlt diesen praktischen Service: für eine ruhige Pause vorher die Öffnungszeiten prüfen.",
+      "zh": "我们的团队推荐这项便利服务：若想安静休息，可先核实图书馆开放时间。"
+    },
+    "teamApproved": true
   },
   {
     "id": "cityhall",
@@ -1113,11 +1479,22 @@ window.GUIDE_PLACES = [
     "hours": "check",
     "note": "",
     "outside": false,
-    "photo": "",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/H%C3%B4tel_Ville_-_Montb%C3%A9liard_%28FR25%29_-_2026-09-12_-_1.jpg?width=960",
     "walk": "",
     "tags": [],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Notre équipe vous indique ce service pratique : si vous avez une démarche officielle, consultez les services et horaires de la mairie.",
+      "en": "Our team recommends this handy service: for administrative matters, check town hall services and hours.",
+      "de": "Unser Team empfiehlt diesen praktischen Service: für Behördengänge die Dienstleistungen und Zeiten der Stadtverwaltung prüfen.",
+      "zh": "我们的团队推荐这项便利服务：办理政务前请先查看市政厅服务与办公时间。"
+    },
+    "teamApproved": true,
+    "photoSource": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_Ville_-_Montb%C3%A9liard_%28FR25%29_-_2026-09-12_-_1.jpg",
+    "photoCredit": "Chabe01",
+    "photoLicense": "CC BY-SA 4.0",
+    "photoFile": "Hôtel Ville - Montbéliard (FR25) - 2026-09-12 - 1.jpg"
   },
   {
     "id": "info-jeunes",
@@ -1140,7 +1517,14 @@ window.GUIDE_PLACES = [
     "walk": "",
     "tags": [],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Notre équipe vous indique ce service pratique : pour les informations dédiées aux jeunes, vérifiez les permanences proposées.",
+      "en": "Our team recommends this handy service: check current opening sessions for youth advice.",
+      "de": "Unser Team empfiehlt diesen praktischen Service: für Jugendberatung die aktuellen Sprechzeiten prüfen.",
+      "zh": "我们的团队推荐这项便利服务：青年咨询服务请先核实接待时间。"
+    },
+    "teamApproved": true
   },
   {
     "id": "laverie",
@@ -1163,7 +1547,14 @@ window.GUIDE_PLACES = [
     "walk": "",
     "tags": [],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Notre équipe vous indique ce service pratique : pour une lessive pendant votre séjour, vérifiez les machines et moyens de paiement sur place.",
+      "en": "Our team recommends this handy service: for laundry during your stay, check machines and payment methods on site.",
+      "de": "Unser Team empfiehlt diesen praktischen Service: für Wäsche während des Aufenthalts Maschinen und Bezahlung vor Ort prüfen.",
+      "zh": "我们的团队推荐这项便利服务：住宿期间洗衣请现场确认设备与付款方式。"
+    },
+    "teamApproved": true
   },
   {
     "id": "market-tuesday",
@@ -1192,6 +1583,13 @@ window.GUIDE_PLACES = [
       "市场"
     ],
     "checked_on": "",
-    "verification": "source"
+    "verification": "source",
+    "tip": {
+      "fr": "Notre équipe aime vous proposer cette adresse : pour une ambiance de marché de quartier, pensez à la Petite-Hollande le mardi matin.",
+      "en": "Our team likes recommending this address: for a neighbourhood-market atmosphere, try Petite-Hollande on Tuesday morning.",
+      "de": "Unser Team empfiehlt Ihnen diese Adresse: für Marktatmosphäre im Viertel bietet sich dienstagmorgens Petite-Hollande an.",
+      "zh": "我们的团队推荐这个实用地点：想体验街区市集氛围，可以周二上午去小荷兰区。"
+    },
+    "teamApproved": true
   }
 ];

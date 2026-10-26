@@ -43,6 +43,18 @@ robots.txt, sitemap.xml    Référencement de base
 
 ## Limites à connaître
 
-**Ce guide n'est pas un annuaire exhaustif et les horaires ne sont pas suivis en temps réel.** Il ne calcule pas les distances / durées à pied dans la page : **Google Maps les calcule quand le visiteur ouvre l'itinéraire**. Certaines données de commerces doivent être revérifiées avant une communication présentée comme officielle. Les visuels sont des **illustrations de catégories** — pas des photographies des établissements. Le traitement de texte de la marque est une composition graphique **non officielle**, à remplacer uniquement par un logo fourni et autorisé par l'hôtel.
+**Ce guide n'est pas un annuaire exhaustif et les horaires ne sont pas suivis en temps réel.** Il ne calcule pas les distances / durées à pied dans la page : **Google Maps les calcule quand le visiteur ouvre l'itinéraire**. Certaines données de commerces doivent être revérifiées avant une communication présentée comme officielle. Les visuels sont des photographies attribuées pour 12 lieux identifiés et des illustrations de catégories pour les autres fiches. Voir `PHOTOS-ET-DROITS.md`. Le traitement de texte de la marque est une composition graphique **non officielle**, à remplacer uniquement par un logo fourni et autorisé par l'hôtel.
 
 Vous pouvez modifier les fiches dans `data.js` en conservant strictement le format JavaScript/JSON ; voir [MISE-A-JOUR.md](MISE-A-JOUR.md). Les auteurs du guide restent responsables de la validation locale des tarifs et des recommandations dites « coups de cœur de l'équipe ».
+
+## Les recommandations en vert
+
+Les 50 fiches contiennent des conseils éditoriaux en français, anglais, allemand et chinois, formulés au nom de l’équipe avec son autorisation. Ils ne constituent pas la preuve que des membres du personnel ont personnellement essayé chaque commerce. Voir `CONSEILS-EQUIPE.md`.
+
+## Édition « équipe + photos » du 25 octobre 2026
+
+Les 50 fiches comportent un conseil éditorial formulé au nom de l’équipe. 12 photos réelles de lieux identifiés sont intégrées par liens Wikimedia Commons avec crédits ; les autres commerces et services affichent un lien vers les photos de leur fiche cartographique, et aucune photo générique n’est présentée comme une devanture réelle.
+
+### Publication par-dessus la version qui fonctionne déjà
+
+Remplacer à la racine du dépôt GitHub : **`index.html`, `data.js`, `app.js`, `translations.js`, `styles.css` et `sources.html`**. `index.html` inclut des paramètres anti-cache pour rendre la mise à jour visible immédiatement. Ajouter `PHOTOS-ET-DROITS.md` et, si souhaité, remplacer `CONSEILS-EQUIPE.md` et `README.md`. Le reste ne change pas. **Ne pas importer le fichier ZIP brut** : le décompresser d’abord.
