@@ -1,4 +1,4 @@
-/* Guide local - no build tools, cookies, external JavaScript or tracking needed. */
+/* Guide local - local photos integrated via photo-cache.js for reliable GitHub deployment. */
 (()=>{'use strict';
 const DATA=Array.isArray(window.GUIDE_PLACES)?window.GUIDE_PLACES:[];
 const LANGS=window.GUIDE_I18N||{}, CATS={discover:'🏰',food:'🍽️',bakery:'🥐',shopping:'🛍️',health:'💊',transport:'🚉',parking:'🅿️',services:'🧺',essentials:'🏨'};
@@ -6,6 +6,7 @@ const KEY='montbeliard-guide-favorites-v1', LK='montbeliard-guide-lang-v1', ORIG
 let lang='fr',cat='all',query='',area='all',sort='curated',favs=new Set();
 const $=id=>document.getElementById(id), escape=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const validHttp=url=>{try{return /^https?:$/.test(new URL(url).protocol)?url:''}catch{return ''}};
+const assetUrl=path=>typeof path==='string'&&path.startsWith('images/')?(window.GUIDE_ASSETS?.[path]||path):path;
 const language=()=>LANGS[lang]||LANGS.fr||{};
 const tr=(key)=>language()[key]||LANGS.fr?.[key]||key;
 const norm=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLocaleLowerCase();
@@ -30,7 +31,7 @@ function photoBlock(p,mode='card'){
   const isContext=local&&p.photoKind==='context';
   const isPress=local&&p.photoKind==='press';
   const real=remote||(local&&!isIllustration&&!isContext);
-  const src=local||remote?p.photo:fallbackArt(p);
+  const src=assetUrl(local||remote?p.photo:fallbackArt(p));
   const alt=isIllustration?`${tr('imgLabel')}: ${p.name}`:isContext?`${tr('photoIllustrative')}: ${p.name}`:real?`${tr('realPhotoAlt')}: ${p.name}`:tr('imgLabel');
   let tag;
   if(remote){tag=`<a class="image-credit" href="${escape(p.photoSource)}" target="_blank" rel="noopener noreferrer" title="${escape(p.photoLicense||'')}">📷 ${escape(p.photoCredit||'Wikimedia Commons')} · ${escape(p.photoLicense||'')}</a>`;}
@@ -51,7 +52,7 @@ function detail(id){const p=DATA.find(x=>x.id===id);if(!p)return;const modal=$('
  modal.showModal();}
 function handlePhotoFailure(e){const img=e.target;
  if(img.tagName!=='IMG'||!img.hasAttribute('data-fallback')||img.dataset.failed==='1')return;
- img.dataset.failed='1';img.src=img.dataset.fallback;img.alt=tr('imgLabel');
+ img.dataset.failed='1';img.src=assetUrl(img.dataset.fallback);img.alt=tr('imgLabel');
  const holder=img.closest('.card-media,.dialog-photo-wrap');
  if(holder){holder.classList.remove('has-real-photo');const credit=holder.querySelector('.image-credit');if(credit){credit.textContent=tr('imgLabel');credit.removeAttribute('href');credit.className='image-disclaimer';}}
 }

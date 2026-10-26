@@ -19,3 +19,8 @@
 .view-real-photos:hover{color:var(--green)}
 .guide-tip-label{color:var(--deep)}
 @media(prefers-reduced-motion:reduce){.card-media img{transition:none!important}}
+
+/* Visuels locaux : pictogrammes distincts des photos */
+.card-media.has-pictogram{background:#f5f8fc}
+.card-media.has-pictogram img,.dialog-photo-wrap.has-pictogram img{object-fit:contain;background:#f5f8fc;padding:10px}
+.dialog-photo-wrap.has-pictogram .dialog-art{object-fit:contain;height:200px}

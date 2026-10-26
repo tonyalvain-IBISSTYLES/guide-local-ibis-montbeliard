@@ -1,0 +1,51 @@
+﻿id;nom;photo;statut
+hotel;ibis Styles Montbéliard Centre Velotte;images/hotel.webp;locale dans photos-cache.js
+tourist-office;Office de Tourisme du Pays de Montbéliard;https://commons.wikimedia.org/wiki/Special:FilePath/Office_Tourisme_-_Montb%C3%A9liard_%28FR25%29_-_2026-09-12_-_2.jpg?width=960;hébergée sur Wikimedia Commons
+castle;Château Montbéliard Wurtemberg;https://commons.wikimedia.org/wiki/Special:FilePath/B%C3%A2timent_Nord_Ch%C3%A2teau_Ducs_Wurtemberg_-_Montb%C3%A9liard_%28FR25%29_-_2026-09-12_-_1.jpg?width=960;hébergée sur Wikimedia Commons
+museum-beurnier;Musée d’Art et d’Histoire Beurnier-Rossel;https://commons.wikimedia.org/wiki/Special:FilePath/H%C3%B4tel_Beurnier_Rossel_-_Montb%C3%A9liard_%28FR25%29_-_2026-09-12_-_1.jpg?width=960;hébergée sur Wikimedia Commons
+park;Parc du Près-la-Rose;https://commons.wikimedia.org/wiki/Special:FilePath/Parc_Pr%C3%A8s_la_Rose_-_Montb%C3%A9liard.jpg?width=960;hébergée sur Wikimedia Commons
+science;Pavillon des Sciences;images/science.webp;locale dans photos-cache.js
+temple;Temple Saint-Martin;https://commons.wikimedia.org/wiki/Special:FilePath/Temple_Saint_Martin_-_Montb%C3%A9liard_%28FR25%29_-_2026-09-12_-_1.jpg?width=960;hébergée sur Wikimedia Commons
+church;Église Saint-Maimbœuf;https://commons.wikimedia.org/wiki/Special:FilePath/%C3%89glise_Saint_Maimb%C5%93uf_-_Montb%C3%A9liard_%28FR25%29_-_2026-09-12_-_11.jpg?width=960;hébergée sur Wikimedia Commons
+square;Place Denfert-Rochereau et les Halles;https://commons.wikimedia.org/wiki/Special:FilePath/Halles_-_Montb%C3%A9liard_%28FR25%29_-_2026-09-12_-_1.jpg?width=960;hébergée sur Wikimedia Commons
+city-walk;Circuit urbain Heinrich Schickhardt;images/city-walk.webp;locale dans photos-cache.js
+peugeot;Musée de l’Aventure Peugeot;images/peugeot.webp;locale dans photos-cache.js
+brognard;Base de loisirs de Brognard;https://commons.wikimedia.org/wiki/Special:FilePath/Base_Nautique_de_Brognard.jpg?width=960;hébergée sur Wikimedia Commons
+eurovelo;EuroVelo 6 — itinéraire cyclable;images/eurovelo.webp;locale dans photos-cache.js
+bonal;Stade Auguste-Bonal;https://commons.wikimedia.org/wiki/Special:FilePath/Stade_Auguste_Bonal_-_Montb%C3%A9liard_%28FR25%29_-_2026-09-12_-_11.jpg?width=960;hébergée sur Wikimedia Commons
+chatel;Le Châtel;images/chatel.webp;locale dans photos-cache.js
+pause;La Pause Gourmande;images/pause.webp;locale dans photos-cache.js
+cassage;Chez Cass’Graine;images/cassage.webp;locale dans photos-cache.js
+tentation;La Tentation;images/tentation.webp;locale dans photos-cache.js
+cafe-central;Le Café Central;images/cafe-central.webp;locale dans photos-cache.js
+ho-plats;Ho’Plats Gourmands;images/ho-plats.webp;locale dans photos-cache.js
+sakura;Sakura Sushi;images/sakura.webp;locale dans photos-cache.js
+witt;Chez Witt Street Food;images/witt.webp;locale dans photos-cache.js
+signorizza;Signorizza;images/signorizza.webp;locale dans photos-cache.js
+debrie;Maison Debrie;images/debrie.webp;locale dans photos-cache.js
+mie;La Mie Câline;images/mie.webp;locale dans photos-cache.js
+billiotte;Biscuiterie Billiotte;images/billiotte.webp;locale dans photos-cache.js
+ragot;Jean-Philippe Ragot Chocolatier;images/ragot.webp;locale dans photos-cache.js
+vergne;Chocolaterie Vergne;images/vergne.webp;locale dans photos-cache.js
+carrefour-express;Carrefour Express centre-ville;images/carrefour-express.webp;locale dans photos-cache.js
+carrefour-hyper;Carrefour Montbéliard;(aucune);à fournir
+leclerc;E.Leclerc Montbéliard;(aucune);à fournir
+littera;Librairie Littéra;images/littera.webp;locale dans photos-cache.js
+market-centre;Marché du mercredi — centre-ville;images/market-centre.webp;locale dans photos-cache.js
+market-sat;Marché du samedi — Roselière;images/market-sat.webp;locale dans photos-cache.js
+pharma-carre;Pharmacie du Carré Piéton;images/pharma-carre.webp;locale dans photos-cache.js
+pharma-pays;Pharmacie du Pays de Montbéliard;images/pharma-pays.webp;locale dans photos-cache.js
+station;Gare de Montbéliard (TER);https://commons.wikimedia.org/wiki/Special:FilePath/Gare_de_Montb%C3%A9liard_%282%29.jpg?width=960;hébergée sur Wikimedia Commons
+buses;Réseau de bus évolitY;images/buses.webp;locale dans photos-cache.js
+station-tgv;Gare TGV Belfort-Montbéliard;https://commons.wikimedia.org/wiki/Special:FilePath/Inscription_Gare_Belfort_Montb%C3%A9liard_TGV_Meroux_Moval_Avenue_Gare_TGV_-_Meroux-Moval_%28FR90%29_-_2026-10-01_-_1.jpg?width=960;hébergée sur Wikimedia Commons
+parking-velotte;Parking public Velotte;images/parking-picto.webp;locale dans photos-cache.js
+parking-allies;Parking des Alliés;images/parking-picto.webp;locale dans photos-cache.js
+parking-blancheries;Parking des Blancheries;images/parking-picto.webp;locale dans photos-cache.js
+parking-lizaine;Parking Lizaine Sud;images/parking-picto.webp;locale dans photos-cache.js
+charge-velotte;Recharge électrique — Parking Velotte;images/recharge-picto.webp;locale dans photos-cache.js
+charge-tesla;Tesla Superchargeur Montbéliard;images/charge-tesla.webp;locale dans photos-cache.js
+library;Médiathèque de Montbéliard;images/library.webp;locale dans photos-cache.js
+cityhall;Mairie de Montbéliard;https://commons.wikimedia.org/wiki/Special:FilePath/H%C3%B4tel_Ville_-_Montb%C3%A9liard_%28FR25%29_-_2026-09-12_-_1.jpg?width=960;hébergée sur Wikimedia Commons
+info-jeunes;Info Jeunes Montbéliard;(aucune);à fournir
+laverie;Laverie Speed Queen;images/laverie.webp;locale dans photos-cache.js
+market-tuesday;Marché du mardi — Petite-Hollande;(aucune);à fournir
