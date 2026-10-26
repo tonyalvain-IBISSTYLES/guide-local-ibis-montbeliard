@@ -42,7 +42,7 @@ Points particulièrement documentés :
 | Chocolaterie Vergne | bakery | [www.paysdemontbeliard-tourisme.com](https://www.paysdemontbeliard-tourisme.com/shopping) |
 | Carrefour Express centre-ville | shopping | [www.carrefour.fr](https://www.carrefour.fr/magasin/express-montbeliard) |
 | Carrefour Montbéliard | shopping | [www.carrefour.fr](https://www.carrefour.fr/magasin/montbeliard) |
-| E.Leclerc Montbéliard | shopping | [www.e.leclerc](https://www.e.leclerc/) |
+| E.Leclerc Montbéliard | shopping | [www.e.leclerc](https://www.e.leclerc/mag/e-leclerc-montbeliard) |
 | Librairie Littéra | shopping | [www.paysdemontbeliard-tourisme.com](https://www.paysdemontbeliard-tourisme.com/shopping) |
 | Marché du mercredi — centre-ville | shopping | [www.montbeliard.fr](https://www.montbeliard.fr/ma-ville-au-quotidien/entreprises-commerces-et-artisanat/destination-shopping/marches-hebdomadaires/) |
 | Marché du samedi — Roselière | shopping | [www.montbeliard.fr](https://www.montbeliard.fr/ma-ville-au-quotidien/entreprises-commerces-et-artisanat/destination-shopping/marches-hebdomadaires/) |

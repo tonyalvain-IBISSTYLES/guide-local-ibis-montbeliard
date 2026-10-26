@@ -1,4 +1,5 @@
-/* Fiches du guide : 50 adresses, liens corrigés au 26/10/2026. Les sites externes peuvent changer ; lire CORRECTION-LIENS-404.md. */
+/* Guide local : 50 fiches. Liens externes audités sur des pages d’éditeurs ou institutions le 26/10/2026.
+ * Un site tiers peut changer ultérieurement : consultez AUDIT-LIENS-2026-10-26.md. */
 window.GUIDE_PLACES = [
   {
     "id": "hotel",
@@ -36,7 +37,9 @@ window.GUIDE_PLACES = [
     "photoCredit": "Photo transmise pour le guide",
     "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
     "photoSource": "",
-    "photoRightsStatus": "à confirmer avant diffusion publique"
+    "photoRightsStatus": "à confirmer avant diffusion publique",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "tourist-office",
@@ -70,7 +73,9 @@ window.GUIDE_PLACES = [
     "photoSource": "https://commons.wikimedia.org/wiki/File:Office_Tourisme_-_Montb%C3%A9liard_%28FR25%29_-_2026-09-12_-_2.jpg",
     "photoCredit": "Chabe01",
     "photoLicense": "CC BY-SA 4.0",
-    "photoFile": "Office Tourisme - Montbéliard (FR25) - 2026-09-12 - 2.jpg"
+    "photoFile": "Office Tourisme - Montbéliard (FR25) - 2026-09-12 - 2.jpg",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "castle",
@@ -104,7 +109,9 @@ window.GUIDE_PLACES = [
     "photoSource": "https://commons.wikimedia.org/wiki/File:B%C3%A2timent_Nord_Ch%C3%A2teau_Ducs_Wurtemberg_-_Montb%C3%A9liard_%28FR25%29_-_2026-09-12_-_1.jpg",
     "photoCredit": "Chabe01",
     "photoLicense": "CC BY-SA 4.0",
-    "photoFile": "Bâtiment Nord Château Ducs Wurtemberg - Montbéliard (FR25) - 2026-09-12 - 1.jpg"
+    "photoFile": "Bâtiment Nord Château Ducs Wurtemberg - Montbéliard (FR25) - 2026-09-12 - 1.jpg",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "museum-beurnier",
@@ -138,7 +145,9 @@ window.GUIDE_PLACES = [
     "photoSource": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_Beurnier_Rossel_-_Montb%C3%A9liard_%28FR25%29_-_2026-09-12_-_1.jpg",
     "photoCredit": "Chabe01",
     "photoLicense": "CC BY-SA 4.0",
-    "photoFile": "Hôtel Beurnier Rossel - Montbéliard (FR25) - 2026-09-12 - 1.jpg"
+    "photoFile": "Hôtel Beurnier Rossel - Montbéliard (FR25) - 2026-09-12 - 1.jpg",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "park",
@@ -172,7 +181,9 @@ window.GUIDE_PLACES = [
     "photoSource": "https://commons.wikimedia.org/wiki/File:Parc_Pr%C3%A8s_la_Rose_-_Montb%C3%A9liard.jpg",
     "photoCredit": "ALLIOT A & B",
     "photoLicense": "CC BY-SA 2.0",
-    "photoFile": "Parc Près la Rose - Montbéliard.jpg"
+    "photoFile": "Parc Près la Rose - Montbéliard.jpg",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "science",
@@ -207,7 +218,9 @@ window.GUIDE_PLACES = [
     "photoCredit": "Photo transmise pour le guide",
     "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
     "photoSource": "",
-    "photoRightsStatus": "à confirmer avant diffusion publique"
+    "photoRightsStatus": "à confirmer avant diffusion publique",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "temple",
@@ -241,7 +254,9 @@ window.GUIDE_PLACES = [
     "photoSource": "https://commons.wikimedia.org/wiki/File:Temple_Saint_Martin_-_Montb%C3%A9liard_%28FR25%29_-_2026-09-12_-_1.jpg",
     "photoCredit": "Chabe01",
     "photoLicense": "CC BY-SA 4.0",
-    "photoFile": "Temple Saint Martin - Montbéliard (FR25) - 2026-09-12 - 1.jpg"
+    "photoFile": "Temple Saint Martin - Montbéliard (FR25) - 2026-09-12 - 1.jpg",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "church",
@@ -275,7 +290,9 @@ window.GUIDE_PLACES = [
     "photoSource": "https://commons.wikimedia.org/wiki/File:%C3%89glise_Saint_Maimb%C5%93uf_-_Montb%C3%A9liard_%28FR25%29_-_2026-09-12_-_11.jpg",
     "photoCredit": "Chabe01",
     "photoLicense": "CC BY-SA 4.0",
-    "photoFile": "Église Saint Maimbœuf - Montbéliard (FR25) - 2026-09-12 - 11.jpg"
+    "photoFile": "Église Saint Maimbœuf - Montbéliard (FR25) - 2026-09-12 - 11.jpg",
+    "link_check_date": "2026-10-26",
+    "link_status": "source_only"
   },
   {
     "id": "square",
@@ -309,7 +326,9 @@ window.GUIDE_PLACES = [
     "photoSource": "https://commons.wikimedia.org/wiki/File:Halles_-_Montb%C3%A9liard_%28FR25%29_-_2026-09-12_-_1.jpg",
     "photoCredit": "Chabe01",
     "photoLicense": "CC BY-SA 4.0",
-    "photoFile": "Halles - Montbéliard (FR25) - 2026-09-12 - 1.jpg"
+    "photoFile": "Halles - Montbéliard (FR25) - 2026-09-12 - 1.jpg",
+    "link_check_date": "2026-10-26",
+    "link_status": "source_only"
   },
   {
     "id": "city-walk",
@@ -347,7 +366,9 @@ window.GUIDE_PLACES = [
     "photoCredit": "Photo transmise pour le guide",
     "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
     "photoSource": "",
-    "photoRightsStatus": "à confirmer avant diffusion publique"
+    "photoRightsStatus": "à confirmer avant diffusion publique",
+    "link_check_date": "2026-10-26",
+    "link_status": "source_only"
   },
   {
     "id": "peugeot",
@@ -382,7 +403,9 @@ window.GUIDE_PLACES = [
     "photoCredit": "Photo transmise pour le guide",
     "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
     "photoSource": "",
-    "photoRightsStatus": "à confirmer avant diffusion publique"
+    "photoRightsStatus": "à confirmer avant diffusion publique",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "brognard",
@@ -395,8 +418,8 @@ window.GUIDE_PLACES = [
       "de": "Freizeitgelände am Wasser mit saisonalen Aktivitäten; außerhalb der Innenstadt.",
       "zh": "湖畔休闲区与季节性户外活动，位于市中心之外。"
     },
-    "source": "https://www.paysdemontbeliard-tourisme.com/",
-    "website": "https://www.paysdemontbeliard-tourisme.com/",
+    "source": "https://www.paysdemontbeliard-tourisme.com/index.php/nature/decibelles/detail/ascbou000v50da9q/base-de-loisirs-du-pays-de-montbeliard",
+    "website": "https://www.paysdemontbeliard-tourisme.com/index.php/nature/decibelles/detail/ascbou000v50da9q/base-de-loisirs-du-pays-de-montbeliard",
     "phone": "",
     "hours": "",
     "note": "",
@@ -416,7 +439,10 @@ window.GUIDE_PLACES = [
     "photoSource": "https://commons.wikimedia.org/wiki/File:Base_Nautique_de_Brognard.jpg",
     "photoCredit": "André ALLIOT",
     "photoLicense": "CC0 1.0",
-    "photoFile": "Base Nautique de Brognard.jpg"
+    "photoFile": "Base Nautique de Brognard.jpg",
+    "websiteKind": "listing",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "eurovelo",
@@ -429,8 +455,8 @@ window.GUIDE_PLACES = [
       "de": "Regionaler Radweg; Strecke anhand einer Karte planen.",
       "zh": "地区自行车线路，出发前请规划具体路线。"
     },
-    "source": "https://www.paysdemontbeliard-tourisme.com/",
-    "website": "https://www.paysdemontbeliard-tourisme.com/",
+    "source": "https://fr.eurovelo.com/ev6",
+    "website": "https://fr.eurovelo.com/ev6",
     "phone": "",
     "hours": "",
     "note": "",
@@ -454,7 +480,10 @@ window.GUIDE_PLACES = [
     "photoCredit": "Visuel transmis pour le guide",
     "photoLicense": "Image illustrative du type de lieu ; localisation exacte non vérifiée",
     "photoSource": "",
-    "photoRightsStatus": "à confirmer avant diffusion publique"
+    "photoRightsStatus": "à confirmer avant diffusion publique",
+    "websiteKind": "listing",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "bonal",
@@ -467,8 +496,8 @@ window.GUIDE_PLACES = [
       "de": "Heimstätte des FC Sochaux-Montbéliard. Spielplan und Tickets prüfen.",
       "zh": "索肖蒙贝利亚尔足球俱乐部主场，请查询赛程及门票。"
     },
-    "source": "https://www.fcsochaux.fr/",
-    "website": "https://www.fcsochaux.fr/",
+    "source": "https://www.fcsochaux.fr/stade-bonal",
+    "website": "https://www.fcsochaux.fr/stade-bonal",
     "phone": "",
     "hours": "",
     "note": "",
@@ -488,7 +517,10 @@ window.GUIDE_PLACES = [
     "photoSource": "https://commons.wikimedia.org/wiki/File:Stade_Auguste_Bonal_-_Montb%C3%A9liard_%28FR25%29_-_2026-09-12_-_11.jpg",
     "photoCredit": "Chabe01",
     "photoLicense": "CC BY-SA 4.0",
-    "photoFile": "Stade Auguste Bonal - Montbéliard (FR25) - 2026-09-12 - 11.jpg"
+    "photoFile": "Stade Auguste Bonal - Montbéliard (FR25) - 2026-09-12 - 11.jpg",
+    "websiteKind": "listing",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "chatel",
@@ -501,7 +533,7 @@ window.GUIDE_PLACES = [
       "de": "Traditionelle französische Küche in der Altstadt am Schloss.",
       "zh": "城堡脚下老城区的传统法式餐厅。"
     },
-    "source": "https://www.paysdemontbeliard-tourisme.com/sites/default/files/2026-04/Guide%20Bonnes%20Adresses%202026%20web.pdf",
+    "source": "https://www.paysdemontbeliard-tourisme.com/manger/decibelles/detail/resbfc025313017941/le-chatel",
     "website": "https://le-chatel.eu/",
     "phone": "+33381925708",
     "hours": "check",
@@ -524,7 +556,9 @@ window.GUIDE_PLACES = [
     "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
     "photoSource": "",
     "photoRightsStatus": "à confirmer avant diffusion publique",
-    "linkCheckedOn": "2026-10-26"
+    "linkCheckedOn": "2026-10-26",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "pause",
@@ -561,7 +595,9 @@ window.GUIDE_PLACES = [
     "photoSource": "",
     "photoRightsStatus": "à confirmer avant diffusion publique",
     "websiteKind": "listing",
-    "linkCheckedOn": "2026-10-26"
+    "linkCheckedOn": "2026-10-26",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "cassage",
@@ -574,7 +610,7 @@ window.GUIDE_PLACES = [
       "de": "Kleines französisches Restaurant mit frischen Saisonprodukten.",
       "zh": "提供新鲜时令菜肴的法式小餐馆。"
     },
-    "source": "https://www.paysdemontbeliard-tourisme.com/sites/default/files/2026-04/Guide%20Bonnes%20Adresses%202026%20web.pdf",
+    "source": "https://www.restaurant-cassgraine.fr/",
     "website": "https://www.restaurant-cassgraine.fr/",
     "phone": "+33381910997",
     "hours": "check",
@@ -596,7 +632,9 @@ window.GUIDE_PLACES = [
     "photoCredit": "Photo transmise pour le guide",
     "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
     "photoSource": "",
-    "photoRightsStatus": "à confirmer avant diffusion publique"
+    "photoRightsStatus": "à confirmer avant diffusion publique",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "tentation",
@@ -632,7 +670,9 @@ window.GUIDE_PLACES = [
     "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
     "photoSource": "",
     "photoRightsStatus": "à confirmer avant diffusion publique",
-    "linkCheckedOn": "2026-10-26"
+    "linkCheckedOn": "2026-10-26",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "cafe-central",
@@ -645,8 +685,8 @@ window.GUIDE_PLACES = [
       "de": "Französische und regionale Küche am Marktplatz; Mittagsservice angegeben.",
       "zh": "市场广场上的法国及本地料理，资料显示供应午餐。"
     },
-    "source": "https://www.paysdemontbeliard-tourisme.com/sites/default/files/2026-04/Guide%20Bonnes%20Adresses%202026%20web.pdf",
-    "website": "",
+    "source": "https://www.paysdemontbeliard-tourisme.com/node/21620",
+    "website": "https://www.paysdemontbeliard-tourisme.com/node/21620",
     "phone": "+33381910014",
     "hours": "check",
     "note": "",
@@ -667,7 +707,10 @@ window.GUIDE_PLACES = [
     "photoCredit": "Photo transmise pour le guide",
     "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
     "photoSource": "",
-    "photoRightsStatus": "à confirmer avant diffusion publique"
+    "photoRightsStatus": "à confirmer avant diffusion publique",
+    "websiteKind": "listing",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "ho-plats",
@@ -680,7 +723,7 @@ window.GUIDE_PLACES = [
       "de": "Flammkuchen und Spezialitäten aus dem Elsass und der Franche-Comté.",
       "zh": "供应阿尔萨斯薄饼及法国东部地方特色菜。"
     },
-    "source": "https://www.paysdemontbeliard-tourisme.com/sites/default/files/2026-04/Guide%20Bonnes%20Adresses%202026%20web.pdf",
+    "source": "https://espritcommerces.fr/nos-commercants/",
     "website": "https://hoplats-gourmands.com/",
     "phone": "+33381972095",
     "hours": "check",
@@ -703,7 +746,9 @@ window.GUIDE_PLACES = [
     "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
     "photoSource": "",
     "photoRightsStatus": "à confirmer avant diffusion publique",
-    "linkCheckedOn": "2026-10-26"
+    "linkCheckedOn": "2026-10-26",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "sakura",
@@ -716,7 +761,7 @@ window.GUIDE_PLACES = [
       "de": "Sushi, Ramen und japanische Gerichte, vor Ort oder zum Mitnehmen.",
       "zh": "寿司、拉面及日式料理，可堂食或外带。"
     },
-    "source": "https://www.paysdemontbeliard-tourisme.com/sites/default/files/2026-04/Guide%20Bonnes%20Adresses%202026%20web.pdf",
+    "source": "https://www.paysdemontbeliard-tourisme.com/manger/decibelles/detail/resbfc025313015129/restaurant-sakura-sushi",
     "website": "https://www.sakurasushi25200.fr/",
     "phone": "+33381986868",
     "hours": "check",
@@ -738,7 +783,9 @@ window.GUIDE_PLACES = [
     "photoCredit": "Photo transmise pour le guide",
     "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
     "photoSource": "",
-    "photoRightsStatus": "à confirmer avant diffusion publique"
+    "photoRightsStatus": "à confirmer avant diffusion publique",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "witt",
@@ -774,7 +821,9 @@ window.GUIDE_PLACES = [
     "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
     "photoSource": "",
     "photoRightsStatus": "à confirmer avant diffusion publique",
-    "linkCheckedOn": "2026-10-26"
+    "linkCheckedOn": "2026-10-26",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "signorizza",
@@ -811,7 +860,9 @@ window.GUIDE_PLACES = [
     "photoSource": "",
     "photoRightsStatus": "à confirmer avant diffusion publique",
     "websiteKind": "listing",
-    "linkCheckedOn": "2026-10-26"
+    "linkCheckedOn": "2026-10-26",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "debrie",
@@ -824,7 +875,7 @@ window.GUIDE_PLACES = [
       "de": "Handwerkliche Patisserie, Chocolaterie und Teesalon.",
       "zh": "手工糕点、巧克力店和茶室。"
     },
-    "source": "https://www.paysdemontbeliard-tourisme.com/shopping",
+    "source": "https://maison-debrie.fr/",
     "website": "https://maison-debrie.fr",
     "phone": "+33381945290",
     "hours": "check",
@@ -846,7 +897,9 @@ window.GUIDE_PLACES = [
     "photoCredit": "Photo transmise pour le guide",
     "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
     "photoSource": "",
-    "photoRightsStatus": "à confirmer avant diffusion publique"
+    "photoRightsStatus": "à confirmer avant diffusion publique",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "mie",
@@ -859,7 +912,7 @@ window.GUIDE_PLACES = [
       "de": "Brot, Gebäck, Sandwiches und Snacks.",
       "zh": "面包、糕点、三明治及简餐。"
     },
-    "source": "https://www.paysdemontbeliard-tourisme.com/shopping",
+    "source": "https://www.lamiecaline.com/boutiques/montbeliard/",
     "website": "https://www.lamiecaline.com/boutiques/montbeliard/",
     "phone": "+33381913107",
     "hours": "check",
@@ -882,7 +935,9 @@ window.GUIDE_PLACES = [
     "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
     "photoSource": "",
     "photoRightsStatus": "à confirmer avant diffusion publique",
-    "linkCheckedOn": "2026-10-26"
+    "linkCheckedOn": "2026-10-26",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "billiotte",
@@ -895,8 +950,8 @@ window.GUIDE_PLACES = [
       "de": "Regionale Kekse, Schokolade und kulinarische Mitbringsel.",
       "zh": "本地饼干、巧克力与可带回家的地方特产。"
     },
-    "source": "https://www.paysdemontbeliard-tourisme.com/shopping",
-    "website": "https://boutique.biscuiterie-billiotte.fr",
+    "source": "https://www.biscuiterie-billiotte.fr/la-biscuiterie/",
+    "website": "https://boutique.biscuiterie-billiotte.fr/nos-magasins",
     "phone": "+33381859834",
     "hours": "check",
     "note": "",
@@ -917,7 +972,9 @@ window.GUIDE_PLACES = [
     "photoCredit": "Visuel transmis pour le guide",
     "photoLicense": "Image illustrative du type de lieu ; localisation exacte non vérifiée",
     "photoSource": "",
-    "photoRightsStatus": "à confirmer avant diffusion publique"
+    "photoRightsStatus": "à confirmer avant diffusion publique",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "ragot",
@@ -930,7 +987,7 @@ window.GUIDE_PLACES = [
       "de": "Handgemachte Schokolade in der Innenstadt.",
       "zh": "市中心的手工巧克力店。"
     },
-    "source": "https://www.paysdemontbeliard-tourisme.com/shopping",
+    "source": "https://www.chocolatragot.fr/",
     "website": "https://www.chocolatragot.fr/",
     "phone": "+33381917704",
     "hours": "check",
@@ -952,7 +1009,9 @@ window.GUIDE_PLACES = [
     "photoCredit": "Photo transmise pour le guide",
     "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
     "photoSource": "",
-    "photoRightsStatus": "à confirmer avant diffusion publique"
+    "photoRightsStatus": "à confirmer avant diffusion publique",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "vergne",
@@ -965,8 +1024,8 @@ window.GUIDE_PLACES = [
       "de": "Schokolade und regionale Süßwaren außerhalb der Fußgängerzone.",
       "zh": "特色巧克力与地方甜点，位于步行街之外。"
     },
-    "source": "https://www.paysdemontbeliard-tourisme.com/shopping",
-    "website": "https://patisserie-vergne.fr/",
+    "source": "https://www.patisserie-vergne.fr/contact/",
+    "website": "https://www.patisserie-vergne.fr/notre-maison/",
     "phone": "+33381947470",
     "hours": "check",
     "note": "",
@@ -987,7 +1046,9 @@ window.GUIDE_PLACES = [
     "photoCredit": "Photo transmise pour le guide",
     "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
     "photoSource": "",
-    "photoRightsStatus": "à confirmer avant diffusion publique"
+    "photoRightsStatus": "à confirmer avant diffusion publique",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "carrefour-express",
@@ -1026,7 +1087,9 @@ window.GUIDE_PLACES = [
     "photoCredit": "Photo transmise pour le guide",
     "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
     "photoSource": "",
-    "photoRightsStatus": "à confirmer avant diffusion publique"
+    "photoRightsStatus": "à confirmer avant diffusion publique",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "carrefour-hyper",
@@ -1056,7 +1119,9 @@ window.GUIDE_PLACES = [
       "de": "Unser Team empfiehlt Ihnen diese Adresse: bei größeren Einkäufen vorher die Route prüfen.",
       "zh": "我们的团队推荐这个实用地点：大量采购前建议先查看前往路线。"
     },
-    "teamApproved": true
+    "teamApproved": true,
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "leclerc",
@@ -1087,7 +1152,9 @@ window.GUIDE_PLACES = [
       "zh": "我们的团队推荐这个实用地点：采购前建议先核实当天营业时间。"
     },
     "teamApproved": true,
-    "linkCheckedOn": "2026-10-26"
+    "linkCheckedOn": "2026-10-26",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "littera",
@@ -1100,8 +1167,8 @@ window.GUIDE_PLACES = [
       "de": "Bücher, Schreibwaren und Geschenkideen in Hotelnähe.",
       "zh": "酒店附近的书籍、文具和礼品店。"
     },
-    "source": "https://www.paysdemontbeliard-tourisme.com/shopping",
-    "website": "",
+    "source": "https://www.livre-bourgognefranchecomte.fr/librairie/littera/montbeliard",
+    "website": "https://www.livre-bourgognefranchecomte.fr/librairie/littera/montbeliard",
     "phone": "+33381315650",
     "hours": "check",
     "note": "",
@@ -1122,7 +1189,10 @@ window.GUIDE_PLACES = [
     "photoCredit": "Photo transmise pour le guide",
     "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
     "photoSource": "",
-    "photoRightsStatus": "à confirmer avant diffusion publique"
+    "photoRightsStatus": "à confirmer avant diffusion publique",
+    "websiteKind": "listing",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "market-centre",
@@ -1160,7 +1230,9 @@ window.GUIDE_PLACES = [
     "photoCredit": "Visuel transmis pour le guide",
     "photoLicense": "Image illustrative du type de lieu ; localisation exacte non vérifiée",
     "photoSource": "",
-    "photoRightsStatus": "à confirmer avant diffusion publique"
+    "photoRightsStatus": "à confirmer avant diffusion publique",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "market-sat",
@@ -1195,7 +1267,9 @@ window.GUIDE_PLACES = [
     "photoCredit": "Visuel transmis pour le guide",
     "photoLicense": "Image illustrative du type de lieu ; localisation exacte non vérifiée",
     "photoSource": "",
-    "photoRightsStatus": "à confirmer avant diffusion publique"
+    "photoRightsStatus": "à confirmer avant diffusion publique",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "pharma-carre",
@@ -1234,7 +1308,9 @@ window.GUIDE_PLACES = [
     "photoCredit": "Photo transmise pour le guide",
     "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
     "photoSource": "",
-    "photoRightsStatus": "à confirmer avant diffusion publique"
+    "photoRightsStatus": "à confirmer avant diffusion publique",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "pharma-pays",
@@ -1273,7 +1349,9 @@ window.GUIDE_PLACES = [
     "photoCredit": "Photo transmise pour le guide",
     "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
     "photoSource": "",
-    "photoRightsStatus": "à confirmer avant diffusion publique"
+    "photoRightsStatus": "à confirmer avant diffusion publique",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "station",
@@ -1307,7 +1385,9 @@ window.GUIDE_PLACES = [
     "photoSource": "https://commons.wikimedia.org/wiki/File:Gare_de_Montb%C3%A9liard_%282%29.jpg",
     "photoCredit": "Espirat",
     "photoLicense": "CC BY-SA 4.0",
-    "photoFile": "Gare de Montbéliard (2).jpg"
+    "photoFile": "Gare de Montbéliard (2).jpg",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "buses",
@@ -1342,7 +1422,9 @@ window.GUIDE_PLACES = [
     "photoCredit": "L’Est Républicain (photo transmise)",
     "photoLicense": "Photographie de presse fournie ; obtenir une autorisation de réutilisation",
     "photoSource": "",
-    "photoRightsStatus": "à confirmer avant diffusion publique"
+    "photoRightsStatus": "à confirmer avant diffusion publique",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "station-tgv",
@@ -1355,8 +1437,8 @@ window.GUIDE_PLACES = [
       "de": "Fernbahnhof außerhalb von Montbéliard: Bus, Taxi oder Auto einplanen.",
       "zh": "高铁站位于蒙贝利亚尔市外，请提前安排公共交通或出租车。"
     },
-    "source": "https://www.sncf-connect.com/",
-    "website": "https://www.sncf-connect.com/",
+    "source": "https://www.sncf-connect.com/gares/belfort/belfort-montbeliard-tgv",
+    "website": "https://www.sncf-connect.com/gares/belfort/belfort-montbeliard-tgv",
     "phone": "",
     "hours": "",
     "note": "",
@@ -1376,7 +1458,10 @@ window.GUIDE_PLACES = [
     "photoSource": "https://commons.wikimedia.org/wiki/File:Inscription_Gare_Belfort_Montb%C3%A9liard_TGV_Meroux_Moval_Avenue_Gare_TGV_-_Meroux-Moval_%28FR90%29_-_2026-10-01_-_1.jpg",
     "photoCredit": "Chabe01",
     "photoLicense": "CC BY-SA 4.0",
-    "photoFile": "Inscription Gare Belfort Montbéliard TGV Meroux Moval Avenue Gare TGV - Meroux-Moval (FR90) - 2026-10-01 - 1.jpg"
+    "photoFile": "Inscription Gare Belfort Montbéliard TGV Meroux Moval Avenue Gare TGV - Meroux-Moval (FR90) - 2026-10-01 - 1.jpg",
+    "websiteKind": "listing",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "parking-velotte",
@@ -1389,7 +1474,7 @@ window.GUIDE_PLACES = [
       "de": "Direkter Hotelzugang. Laut Anbieter rund um die Uhr, Höhe 1,90 m. Hotelpreis 10,50 € / 24 Std. (Rezeption fragen).",
       "zh": "可直达酒店，资料显示全天开放，限高1.90米。酒店优惠价每24小时10.50欧元（请前台确认）。"
     },
-    "source": "https://all.accor.com/hotel/8187/index.fr.shtml",
+    "source": "https://www.montbeliard.fr/ma-ville-au-quotidien/stationnement/",
     "website": "https://all.accor.com/hotel/8187/index.fr.shtml",
     "phone": "",
     "hours": "velotte",
@@ -1414,7 +1499,9 @@ window.GUIDE_PLACES = [
     "photoCredit": "Visuel transmis pour le guide",
     "photoLicense": "Pictogramme ou illustration fournie ; ce n’est pas une photographie du site",
     "photoSource": "",
-    "photoRightsStatus": "à confirmer avant diffusion publique"
+    "photoRightsStatus": "à confirmer avant diffusion publique",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "parking-allies",
@@ -1449,7 +1536,9 @@ window.GUIDE_PLACES = [
     "photoCredit": "Visuel transmis pour le guide",
     "photoLicense": "Pictogramme ou illustration fournie ; ce n’est pas une photographie du site",
     "photoSource": "",
-    "photoRightsStatus": "à confirmer avant diffusion publique"
+    "photoRightsStatus": "à confirmer avant diffusion publique",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "parking-blancheries",
@@ -1484,7 +1573,9 @@ window.GUIDE_PLACES = [
     "photoCredit": "Visuel transmis pour le guide",
     "photoLicense": "Pictogramme ou illustration fournie ; ce n’est pas une photographie du site",
     "photoSource": "",
-    "photoRightsStatus": "à confirmer avant diffusion publique"
+    "photoRightsStatus": "à confirmer avant diffusion publique",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "parking-lizaine",
@@ -1519,7 +1610,9 @@ window.GUIDE_PLACES = [
     "photoCredit": "Visuel transmis pour le guide",
     "photoLicense": "Pictogramme ou illustration fournie ; ce n’est pas une photographie du site",
     "photoSource": "",
-    "photoRightsStatus": "à confirmer avant diffusion publique"
+    "photoRightsStatus": "à confirmer avant diffusion publique",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "charge-velotte",
@@ -1559,7 +1652,9 @@ window.GUIDE_PLACES = [
     "photoCredit": "Visuel transmis pour le guide",
     "photoLicense": "Pictogramme ou illustration fournie ; ce n’est pas une photographie du site",
     "photoSource": "",
-    "photoRightsStatus": "à confirmer avant diffusion publique"
+    "photoRightsStatus": "à confirmer avant diffusion publique",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "charge-tesla",
@@ -1600,7 +1695,9 @@ window.GUIDE_PLACES = [
     "photoCredit": "Visuel transmis pour le guide",
     "photoLicense": "Image illustrative du type de lieu ; localisation exacte non vérifiée",
     "photoSource": "",
-    "photoRightsStatus": "à confirmer avant diffusion publique"
+    "photoRightsStatus": "à confirmer avant diffusion publique",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "library",
@@ -1635,7 +1732,9 @@ window.GUIDE_PLACES = [
     "photoCredit": "Photo transmise pour le guide",
     "photoLicense": "Photo reçue pour la fiche ; autorisation de publication à confirmer",
     "photoSource": "",
-    "photoRightsStatus": "à confirmer avant diffusion publique"
+    "photoRightsStatus": "à confirmer avant diffusion publique",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "cityhall",
@@ -1669,7 +1768,9 @@ window.GUIDE_PLACES = [
     "photoSource": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_Ville_-_Montb%C3%A9liard_%28FR25%29_-_2026-09-12_-_1.jpg",
     "photoCredit": "Chabe01",
     "photoLicense": "CC BY-SA 4.0",
-    "photoFile": "Hôtel Ville - Montbéliard (FR25) - 2026-09-12 - 1.jpg"
+    "photoFile": "Hôtel Ville - Montbéliard (FR25) - 2026-09-12 - 1.jpg",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "info-jeunes",
@@ -1682,8 +1783,8 @@ window.GUIDE_PLACES = [
       "de": "Beratung und Informationen für junge Menschen.",
       "zh": "为青年提供咨询与实用支持。"
     },
-    "source": "https://www.montbeliard.fr/",
-    "website": "https://www.montbeliard.fr/",
+    "source": "https://www.montbeliard.fr/ma-ville-au-quotidien/enfance-jeunesse-scolarite/information-jeunesse/etudier-se-former-partir-a-l-etranger/",
+    "website": "https://www.montbeliard.fr/ma-ville-au-quotidien/enfance-jeunesse-scolarite/information-jeunesse/etudier-se-former-partir-a-l-etranger/",
     "phone": "+33381992415",
     "hours": "check",
     "note": "",
@@ -1699,7 +1800,10 @@ window.GUIDE_PLACES = [
       "de": "Unser Team empfiehlt diesen praktischen Service: für Jugendberatung die aktuellen Sprechzeiten prüfen.",
       "zh": "我们的团队推荐这项便利服务：青年咨询服务请先核实接待时间。"
     },
-    "teamApproved": true
+    "teamApproved": true,
+    "websiteKind": "listing",
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   },
   {
     "id": "laverie",
@@ -1734,7 +1838,9 @@ window.GUIDE_PLACES = [
     "photoCredit": "Visuel transmis pour le guide",
     "photoLicense": "Image illustrative du type de lieu ; localisation exacte non vérifiée",
     "photoSource": "",
-    "photoRightsStatus": "à confirmer avant diffusion publique"
+    "photoRightsStatus": "à confirmer avant diffusion publique",
+    "link_check_date": "2026-10-26",
+    "link_status": "maps_only"
   },
   {
     "id": "market-tuesday",
@@ -1770,6 +1876,8 @@ window.GUIDE_PLACES = [
       "de": "Unser Team empfiehlt Ihnen diese Adresse: für Marktatmosphäre im Viertel bietet sich dienstagmorgens Petite-Hollande an.",
       "zh": "我们的团队推荐这个实用地点：想体验街区市集氛围，可以周二上午去小荷兰区。"
     },
-    "teamApproved": true
+    "teamApproved": true,
+    "link_check_date": "2026-10-26",
+    "link_status": "confirmed"
   }
 ];

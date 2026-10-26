@@ -1,0 +1,37 @@
+name: Vérification des liens du guide
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 7 * * 1' # lundi à 07:00 UTC
+
+permissions:
+  contents: read
+
+jobs:
+  audit-liens:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Récupérer le guide
+        uses: actions/checkout@v4
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Vérifier chaque lien externe
+        id: links
+        continue-on-error: true
+        run: python scripts/verifier_liens.py
+      - name: Conserver le rapport CSV
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: rapport-liens
+          path: RAPPORT-AUTO-LIENS.csv
+          if-no-files-found: warn
+      - name: Signaler les liens manifestement cassés
+        if: steps.links.outcome == 'failure'
+        run: |
+          echo "Une ou plusieurs URL sont hors service. Télécharger le CSV du workflow, puis vérifier manuellement." >&2
+          exit 1

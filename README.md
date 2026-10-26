@@ -58,3 +58,12 @@ Les 50 fiches comportent un conseil éditorial formulé au nom de l’équipe. 1
 ### Publication par-dessus la version qui fonctionne déjà
 
 Remplacer à la racine du dépôt GitHub : **`index.html`, `data.js`, `app.js`, `translations.js`, `styles.css` et `sources.html`**. `index.html` inclut des paramètres anti-cache pour rendre la mise à jour visible immédiatement. Ajouter `PHOTOS-ET-DROITS.md` et, si souhaité, remplacer `CONSEILS-EQUIPE.md` et `README.md`. Le reste ne change pas. **Ne pas importer le fichier ZIP brut** : le décompresser d’abord.
+
+
+## Photos locales — édition du 26 octobre 2026
+
+Les correspondances, fichiers optimisés et réserves sur les droits figurent dans `PHOTOS-MISE-A-JOUR.md` et `PHOTOS-ET-DROITS.md`. Télécharger le nouveau ZIP avec le dossier `images` complet.
+
+## Correctif du 26 octobre 2026 : liens commerçants
+
+Les liens défectueux ont été corrigés et les fiches comportent un lien de secours Google Maps. Voir `CORRECTION-LIENS-404.md` et `LIENS-COMMERCANTS.csv`.

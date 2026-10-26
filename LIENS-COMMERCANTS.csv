@@ -1,9 +1,22 @@
-﻿Identifiant;Établissement;URL précédente;URL corrigée;Type de lien;Contrôle documentaire
-chatel;Le Châtel;https://restaurant-lechatel.fr/;https://le-chatel.eu/;Site officiel;26/10/2026
-pause;La Pause Gourmande;http://www.lapausegourmande.net;https://www.paysdemontbeliard-tourisme.com/manger/decibelles/detail/resbfc025313017340/la-pause-gourmande;Fiche Office de tourisme;26/10/2026
-tentation;La Tentation;;https://restaurant-latentation.fr/;Site officiel;26/10/2026
-ho-plats;Ho’Plats Gourmands;https://www.hoplats-gourmands.com;https://hoplats-gourmands.com/;Site officiel;26/10/2026
-witt;Chez Witt Street Food;;https://chez-witt-montbeliard.metro.bar/?lang=fr;Site officiel;26/10/2026
-signorizza;Signorizza;https://www.signorizza.com/;https://www.paysdemontbeliard-tourisme.com/manger/decibelles/detail/resbfc000v52p00a/signorizza;Fiche Office de tourisme;26/10/2026
-mie;La Mie Câline;https://www.lamiecaline.com/;https://www.lamiecaline.com/boutiques/montbeliard/;Site officiel;26/10/2026
-leclerc;E.Leclerc Montbéliard;https://www.e.leclerc/;https://www.e.leclerc/mag/e-leclerc-montbeliard;Site officiel;26/10/2026
+﻿Nom;Site / fiche actuel;Source;Type de lien;Vérifié le
+Le Châtel;https://le-chatel.eu/;https://www.paysdemontbeliard-tourisme.com/manger/decibelles/detail/resbfc025313017941/le-chatel;Site officiel;2026-10-26
+La Pause Gourmande;https://www.paysdemontbeliard-tourisme.com/manger/decibelles/detail/resbfc025313017340/la-pause-gourmande;https://www.paysdemontbeliard-tourisme.com/manger/decibelles/detail/resbfc025313017340/la-pause-gourmande;Fiche externe;2026-10-26
+Chez Cass’Graine;https://www.restaurant-cassgraine.fr/;https://www.restaurant-cassgraine.fr/;Site officiel;2026-10-26
+La Tentation;https://restaurant-latentation.fr/;https://www.paysdemontbeliard-tourisme.com/manger/decibelles/detail/resbfc000v51ca66/la-tentation;Site officiel;2026-10-26
+Le Café Central;https://www.paysdemontbeliard-tourisme.com/node/21620;https://www.paysdemontbeliard-tourisme.com/node/21620;Fiche externe;2026-10-26
+Ho’Plats Gourmands;https://hoplats-gourmands.com/;https://espritcommerces.fr/nos-commercants/;Site officiel;2026-10-26
+Sakura Sushi;https://www.sakurasushi25200.fr/;https://www.paysdemontbeliard-tourisme.com/manger/decibelles/detail/resbfc025313015129/restaurant-sakura-sushi;Site officiel;2026-10-26
+Chez Witt Street Food;https://chez-witt-montbeliard.metro.bar/?lang=fr;https://www.paysdemontbeliard-tourisme.com/manger/decibelles/detail/resbfc025313013927/chez-witt;Site officiel;2026-10-26
+Signorizza;https://www.paysdemontbeliard-tourisme.com/manger/decibelles/detail/resbfc000v52p00a/signorizza;https://www.paysdemontbeliard-tourisme.com/manger/decibelles/detail/resbfc000v52p00a/signorizza;Fiche externe;2026-10-26
+Maison Debrie;https://maison-debrie.fr;https://maison-debrie.fr/;Site officiel;2026-10-26
+La Mie Câline;https://www.lamiecaline.com/boutiques/montbeliard/;https://www.lamiecaline.com/boutiques/montbeliard/;Site officiel;2026-10-26
+Biscuiterie Billiotte;https://boutique.biscuiterie-billiotte.fr/nos-magasins;https://www.biscuiterie-billiotte.fr/la-biscuiterie/;Site officiel;2026-10-26
+Jean-Philippe Ragot Chocolatier;https://www.chocolatragot.fr/;https://www.chocolatragot.fr/;Site officiel;2026-10-26
+Chocolaterie Vergne;https://www.patisserie-vergne.fr/notre-maison/;https://www.patisserie-vergne.fr/contact/;Site officiel;2026-10-26
+Carrefour Express centre-ville;https://www.carrefour.fr/magasin/express-montbeliard;https://www.carrefour.fr/magasin/express-montbeliard;Site officiel;2026-10-26
+Carrefour Montbéliard;https://www.carrefour.fr/magasin/montbeliard;https://www.carrefour.fr/magasin/montbeliard;Site officiel;2026-10-26
+E.Leclerc Montbéliard;https://www.e.leclerc/mag/e-leclerc-montbeliard;https://www.e.leclerc/mag/e-leclerc-montbeliard;Site officiel;2026-10-26
+Librairie Littéra;https://www.livre-bourgognefranchecomte.fr/librairie/littera/montbeliard;https://www.livre-bourgognefranchecomte.fr/librairie/littera/montbeliard;Fiche externe;2026-10-26
+Marché du mercredi — centre-ville;https://www.montbeliard.fr/ma-ville-au-quotidien/entreprises-commerces-et-artisanat/destination-shopping/marches-hebdomadaires/;https://www.montbeliard.fr/ma-ville-au-quotidien/entreprises-commerces-et-artisanat/destination-shopping/marches-hebdomadaires/;Site officiel;2026-10-26
+Marché du samedi — Roselière;https://www.montbeliard.fr/ma-ville-au-quotidien/entreprises-commerces-et-artisanat/destination-shopping/marches-hebdomadaires/;https://www.montbeliard.fr/ma-ville-au-quotidien/entreprises-commerces-et-artisanat/destination-shopping/marches-hebdomadaires/;Site officiel;2026-10-26
+Marché du mardi — Petite-Hollande;https://www.montbeliard.fr/ma-ville-au-quotidien/entreprises-commerces-et-artisanat/destination-shopping/marches-hebdomadaires/;https://www.montbeliard.fr/ma-ville-au-quotidien/entreprises-commerces-et-artisanat/destination-shopping/marches-hebdomadaires/;Site officiel;2026-10-26
