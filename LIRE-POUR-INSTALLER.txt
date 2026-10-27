@@ -1,0 +1,24 @@
+# Installation du nouveau logo ibis Styles – 27 octobre 2026
+
+Cette archive contient seulement **5 fichiers** à mettre à jour dans votre dépôt GitHub Pages.
+
+## Fichiers à remplacer / ajouter
+
+- `index.html` : remplace l’ancien dessin du logo par le logo horizontal.
+- `styles.css` : ajuste sa taille sur ordinateur et téléphone.
+- `tv.html` : affiche aussi le nouveau logo sur la page TV.
+- `images/logo-ibis-styles-velotte.png` : bannière avec le nom de l’hôtel.
+- `images/favicon-ibis-styles.png` : icône verte officielle fournie par l’hôtel.
+
+## Publication pas à pas
+
+1. Décompressez ce ZIP sur votre ordinateur.
+2. Ouvrez https://github.com/tonyalvain-ibisstyles/guide-local-ibis-montbeliard
+3. À la **racine du dépôt**, ouvrez `Add file` → `Upload files`.
+4. Faites glisser **les 3 fichiers HTML/CSS ainsi que le dossier `images`** ; respectez les chemins.
+5. Validez `Commit changes` sur la branche `main`.
+6. Ouvrez le site et rechargez avec Ctrl+F5 (ou navigation privée).
+
+⚠️ Ne téléversez pas directement le ZIP : décompressez-le d’abord. Ne remplacez pas `data.js`, `app.js`, `translations.js` ou `photo-cache.js` : les photos, fiches et liens restent inchangés.
+
+Le logo est préparé à partir des visuels fournis dans la conversation. Si des modifications du code ont été effectuées directement sur GitHub après la version du 26 octobre, comparer les différences de `index.html`, `tv.html` et `styles.css` avant de remplacer ces fichiers, afin de ne pas écraser ces modifications.
