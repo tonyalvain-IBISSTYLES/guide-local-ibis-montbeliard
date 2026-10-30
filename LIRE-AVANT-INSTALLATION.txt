@@ -1,0 +1,23 @@
+SUIVI DES CONSULTATIONS — GUIDE LOCAL IBIS STYLES MONTBELIARD
+
+Ce ZIP contient uniquement :
+- index.html : le guide principal avec Cloudflare Web Analytics
+- tv.html : la version TV avec Cloudflare Web Analytics
+
+Ces deux fichiers proviennent de la dernière mise a jour du logo preparee dans cette conversation.
+Le script a ete ajoute juste avant </body>. Les contenus des fiches et les images ne sont pas modifies.
+
+INSTALLATION
+1. Decompressez le ZIP.
+2. Ouvrez https://github.com/tonyalvain-ibisstyles/guide-local-ibis-montbeliard/upload/main
+3. Importez index.html et tv.html A LA RACINE du depot (pas le ZIP).
+4. Validez avec Commit changes.
+5. Attendez la publication GitHub Pages, puis revenez dans Cloudflare Web Analytics et cliquez sur Next.
+6. Ouvrez le guide depuis un navigateur sans blocage de suivi. Les statistiques ne sont pas retroactives.
+
+ATTENTION : si les fichiers index.html ou tv.html ont ete modifies directement sur GitHub depuis la mise a jour du logo, ne les remplacez pas sans fusionner vos nouvelles modifications.
+
+REMARQUES
+- La page TV ouverte sur un ecran en continu compte des chargements de page, pas des clients distincts.
+- Les ouvertures des fiches de commerces dans une meme page ne constituent pas des pages vues distinctes.
+- Respectez les obligations d'information et de protection des donnees de l'hotel (RGPD).

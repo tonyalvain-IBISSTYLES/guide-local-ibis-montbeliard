@@ -21,4 +21,7 @@ function nav(change){i=(i+change+slides.length)%slides.length;show();restart()}
 function restart(){clearInterval(timer);if(playing)timer=setInterval(()=>{i=(i+1)%slides.length;show()},8000)}
 setupLanguage();show();restart();$('lang').onchange=e=>{lang=e.target.value;document.documentElement.lang=lang==='zh'?'zh-Hans':lang;try{localStorage.setItem('montbeliard-guide-lang-v1',lang)}catch{}show()};$('next').onclick=()=>nav(1);$('prev').onclick=()=>nav(-1);$('pause').onclick=()=>{playing=!playing;$('pause').textContent=playing?'Ⅱ':'▶';$('pause').setAttribute('aria-label',playing?'Pause':'Lecture');restart()};$('full').onclick=()=>{if(document.fullscreenElement){document.exitFullscreen?.()}else{document.documentElement.requestFullscreen?.().catch(()=>{})}};document.addEventListener('keydown',e=>{if(e.target.tagName==='SELECT'||e.target.tagName==='BUTTON')return;if(e.key==='ArrowRight')nav(1);if(e.key==='ArrowLeft')nav(-1);if(e.key===' '){e.preventDefault();$('pause').click()}});document.addEventListener('visibilitychange',()=>{if(document.hidden)clearInterval(timer);else restart()});
 })();
-</script></body></html>
+</script><!-- Cloudflare Web Analytics -->
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token":"bcd780e28e7a48b9ba0cf5aa5f236326"}'></script>
+<!-- End Cloudflare Web Analytics -->
+</body></html>
